@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PPE Detection Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #0f172a;
+            color: #e2e8f0;
+            min-height: 100vh;
+        }
+        
+        .dashboard {
+            display: grid;
+            grid-template-columns: 3fr 1fr;
+            gap: 20px;
+            padding: 20px;
+            max-width: 1800px;
+            margin: 0 auto;
+        }
+        
+        @media (max-width: 1200px) {
+            .dashboard {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        header {
+            grid-column: 1 / -1;
+            background: linear-gradient(135deg, #1e3a5f 0%, #0f172a 100%);
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            color: #60a5fa;
+        }
+        
+        .header-info {
+            display: flex;
+            gap: 30px;
+            font-size: 1.1rem;
+        }
+        
+        .status-indicator {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background-color: #22c55e;
+            margin-right: 8px;
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        
+        .video-section {
+            background: #1e293b;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        }
+        
+        .video-container {
+            position: relative;
+            background: #0f172a;
+            border-radius: 8px;
+            overflow: hidden;
+            aspect-ratio: 16/9;
+        }
+        
+        .video-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            display: block;
+        }
+        
+        .video-controls {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+        }
+        
+        .control-btn {
+            background: #3b82f6;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: background 0.3s;
+        }
+        
+        .control-btn:hover {
+            background: #2563eb;
+        }
+        
+        .control-btn.stop {
+            background: #ef4444;
+        }
+        
+        .control-btn.stop:hover {
+            background: #dc2626;
+        }
+        
+        .stats-panel {
+            background: #1e293b;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        }
+        
+        .stats-section {
+            margin-bottom: 25px;
+        }
+        
+        .stats-section h3 {
+            color: #60a5fa;
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+            border-bottom: 2px solid #3b82f6;
+            padding-bottom: 8px;
+        }
+        
+        .stat-card {
+            background: #0f172a;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            border-left: 4px solid #3b82f6;
+        }
+        
+        .stat-card.compliance {
+            border-left-color: #22c55e;
+        }
+        
+        .stat-card.violation {
+            border-left-color: #ef4444;
+        }
+        
+        .stat-card.warning {
+            border-left-color: #f59e0b;
+        }
+        
+        .stat-value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #60a5fa;
+        }
+        
+        .stat-label {
+            font-size: 0.9rem;
+            color: #94a3b8;
+            margin-top: 5px;
+        }
+        
+        .detection-list {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        
+        .detection-item {
+            background: #0f172a;
+            padding: 12px;
+            border-radius: 6px;
+            margin-bottom: 8px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .detection-item.compliance {
+            border-left: 3px solid #22c55e;
+        }
+        
+        .detection-item.violation {
+            border-left: 3px solid #ef4444;
+        }
+        
+        .detection-item.warning {
+            border-left: 3px solid #f59e0b;
+        }
+        
+        .detection-info {
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .detection-class {
+            font-weight: bold;
+            color: #e2e8f0;
+        }
+        
+        .detection-confidence {
+            font-size: 0.85rem;
+            color: #94a3b8;
+        }
+        
+        .detection-time {
+            font-size: 0.8rem;
+            color: #64748b;
+        }
+        
+        .chart-container {
+            background: #0f172a;
+            padding: 15px;
+            border-radius: 8px;
+            height: 200px;
+        }
+        
+        .summary-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .summary-card {
+            background: linear-gradient(135deg, #1e3a5f 0%, #0f172a 100%);
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .summary-card.total {
+            border: 2px solid #3b82f6;
+        }
+        
+        .summary-card.compliance {
+            border: 2px solid #22c55e;
+        }
+        
+        .summary-card.violation {
+            border: 2px solid #ef4444;
+        }
+        
+        .summary-value {
+            font-size: 1.8rem;
+            font-weight: bold;
+            color: #60a5fa;
+        }
+        
+        .summary-label {
+            font-size: 0.85rem;
+            color: #94a3b8;
+            margin-top: 5px;
+        }
+        
+        .alert-panel {
+            background: #1e293b;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+            margin-top: 20px;
+        }
+        
+        .alert-item {
+            background: #7f1d1d;
+            padding: 12px;
+            border-radius: 6px;
+            margin-bottom: 10px;
+            border-left: 4px solid #ef4444;
+        }
+        
+        .alert-title {
+            color: #fca5a5;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        
+        .alert-message {
+            color: #fecaca;
+            font-size: 0.9rem;
+        }
+        
+        .alert-item.info {
+            background: #1e3a5f;
+            border-left-color: #3b82f6;
+        }
+        
+        .alert-item.info .alert-title {
+            color: #93c5fd;
+        }
+        
+        .alert-item.info .alert-message {
+            color: #bfdbfe;
+        }
+        
+        .compliance-rate {
+            text-align: center;
+            padding: 20px;
+            background: linear-gradient(135deg, #1e3a5f 0%, #0f172a 100%);
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .compliance-rate-value {
+            font-size: 3rem;
+            font-weight: bold;
+            color: #22c55e;
+        }
+        
+        .compliance-rate-label {
+            color: #94a3b8;
+            margin-top: 5px;
+        }
+        
+        .loading-indicator {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #3498db;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-left: 10px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .connection-status {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 0.9rem;
+        }
+        
+        .connection-status.connected {
+            color: #22c55e;
+        }
+        
+        .connection-status.disconnected {
+            color: #ef4444;
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard">
+        <header>
+            <h1>🛡️ PPE Detection Dashboard</h1>
+            <div class="header-info">
+                <div>
+                    <span class="status-indicator"></span>
+                    System Status: Online
+                </div>
+                <div class="connection-status" id="connectionStatus">
+                    <span class="status-indicator"></span>
+                    <span id="connectionText">Connecting...</span>
+                </div>
+                <div>
+                    📅 <span id="currentDate"></span>
+                </div>
+                <div>
+                    🕐 <span id="currentTime"></span>
+                </div>
+            </div>
+        </header>
+
+        <div class="video-section">
+            <h3 style="color: #60a5fa; margin-bottom: 15px; font-size: 1.3rem;">Live Monitoring</h3>
+            
+            <div class="video-controls" style="margin-bottom: 15px;">
+                <div style="flex: 1;">
+                    <label style="color: #94a3b8; margin-right: 10px;">Video Source:</label>
+                    <select id="videoSourceSelect" onchange="changeVideoSource()" style="
+                        background: #1e293b;
+                        color: #e2e8f0;
+                        border: 1px solid #3b82f6;
+                        padding: 8px 12px;
+                        border-radius: 6px;
+                        font-size: 1rem;
+                        min-width: 200px;
+                        cursor: pointer;
+                    ">
+                        <option value="">Loading sources...</option>
+                    </select>
+                </div>
+                <button class="control-btn" onclick="refreshVideoSources()">🔄 Refresh Sources</button>
+            </div>
+            
+            <div class="video-container">
+                <img id="videoStream" src="/ppe" alt="PPE Detection Video Stream" />
+            </div>
+            <div class="video-controls">
+                <button class="control-btn" onclick="restartStream()">🔄 Restart Stream</button>
+                <button class="control-btn stop" onclick="stopStream()">⏹️ Stop Stream</button>
+                <button class="control-btn" onclick="toggleFullscreen()">🔍 Fullscreen</button>
+            </div>
+            
+            <div class="alert-panel" id="alertPanel">
+                <h3 style="color: #ef4444; margin-bottom: 15px; font-size: 1.3rem;">⚠️ Real-time Alerts</h3>
+                <div id="alertContainer">
+                    <div class="alert-item info">
+                        <div class="alert-title">System Active</div>
+                        <div class="alert-message">Monitoring in progress - awaiting PPE violations...</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="stats-panel">
+            <div class="stats-section">
+                <h3>📊 Detection Summary</h3>
+                <div class="summary-cards">
+                    <div class="summary-card total">
+                        <div class="summary-value" id="totalDetections">0</div>
+                        <div class="summary-label">Total Detections</div>
+                    </div>
+                    <div class="summary-card compliance">
+                        <div class="summary-value" id="complianceDetections">0</div>
+                        <div class="summary-label">Compliance</div>
+                    </div>
+                    <div class="summary-card violation">
+                        <div class="summary-value" id="violationDetections">0</div>
+                        <div class="summary-label">Violations</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="stats-section">
+                <h3>✅ PPE Compliance</h3>
+                <div class="compliance-rate">
+                    <div class="compliance-rate-value" id="complianceRate">0%</div>
+                    <div class="compliance-rate-label">Overall Compliance Rate</div>
+                </div>
+            </div>
+
+            <div class="stats-section">
+                <h3>📈 Detection Trends</h3>
+                <div class="chart-container">
+                    <canvas id="detectionChart"></canvas>
+                </div>
+            </div>
+
+            <div class="stats-section">
+                <h3>📋 Recent Detections</h3>
+                <div class="detection-list" id="detectionList">
+                    <div class="detection-item">
+                        <div class="detection-info">
+                            <span class="detection-class">Loading detections...</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let detectionChart;
+        let reconnectAttempts = 0;
+        const maxReconnectAttempts = 5;
+        let currentVideoSource = null;
+        
+        // Initialize statistics
+        let stats = {
+            total: 0,
+            compliance: 0,
+            violations: 0,
+            detections: [],
+            hourlyData: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        };
+
+        // Initialize chart
+        function initChart() {
+            const ctx = document.getElementById('detectionChart').getContext('2d');
+            detectionChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: Array.from({length: 24}, (_, i) => `${i}:00`),
+                    datasets: [{
+                        label: 'Detections per Hour',
+                        data: stats.hourlyData,
+                        borderColor: '#3b82f6',
+                        backgroundColor: 'rgba(59, 130, 246, 0.1)',
+                        fill: true,
+                        tension: 0.4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            grid: {
+                                color: 'rgba(255, 255, 255, 0.1)'
+                            },
+                            ticks: {
+                                color: '#94a3b8'
+                            }
+                        },
+                        x: {
+                            grid: {
+                                color: 'rgba(255, 255, 255, 0.1)'
+                            },
+                            ticks: {
+                                color: '#94a3b8'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // Update time
+        function updateDateTime() {
+            const now = new Date();
+            document.getElementById('currentDate').textContent = now.toLocaleDateString('en-US', {
+                weekday: 'long',
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            });
+            document.getElementById('currentTime').textContent = now.toLocaleTimeString('en-US');
+        }
+        
+        setInterval(updateDateTime, 1000);
+        updateDateTime();
+
+        // Video source management
+        async function loadVideoSources() {
+            try {
+                const response = await fetch('/api/video-sources');
+                if (response.ok) {
+                    const data = await response.json();
+                    updateVideoSourceDropdown(data.sources, data.current_source);
+                    currentVideoSource = data.current_source;
+                }
+            } catch (error) {
+                console.error('Failed to load video sources:', error);
+            }
+        }
+
+        function updateVideoSourceDropdown(sources, currentSource) {
+            const select = document.getElementById('videoSourceSelect');
+            select.innerHTML = '';
+            
+            sources.forEach(source => {
+                const option = document.createElement('option');
+                option.value = source.id;
+                option.textContent = source.name;
+                if (currentSource && source.id === currentSource.id) {
+                    option.selected = true;
+                }
+                select.appendChild(option);
+            });
+            
+            if (sources.length === 0) {
+                const option = document.createElement('option');
+                option.value = '';
+                option.textContent = 'No sources available';
+                select.appendChild(option);
+            }
+        }
+
+        async function changeVideoSource() {
+            const select = document.getElementById('videoSourceSelect');
+            const sourceId = select.value;
+            
+            if (!sourceId) return;
+            
+            try {
+                const response = await fetch(`/api/video-sources/${sourceId}`, {
+                    method: 'POST'
+                });
+                
+                if (response.ok) {
+                    const data = await response.json();
+                    addAlert('Source Changed', `Switched to ${data.current_source.name}`, 'info');
+                    restartStream();
+                    currentVideoSource = data.current_source;
+                } else {
+                    addAlert('Source Change Failed', 'Could not change video source', 'danger');
+                }
+            } catch (error) {
+                console.error('Failed to change video source:', error);
+                addAlert('Source Change Error', 'Network error occurred', 'danger');
+            }
+        }
+
+        async function refreshVideoSources() {
+            try {
+                const response = await fetch('/api/video-sources/refresh', {
+                    method: 'POST'
+                });
+                
+                if (response.ok) {
+                    const data = await response.json();
+                    updateVideoSourceDropdown(data.sources, data.current_source);
+                    addAlert('Sources Refreshed', `Found ${data.sources.length} video sources`, 'info');
+                }
+            } catch (error) {
+                console.error('Failed to refresh video sources:', error);
+                addAlert('Refresh Failed', 'Could not refresh video sources', 'danger');
+            }
+        }
+
+        // Video stream controls
+        function restartStream() {
+            const video = document.getElementById('videoStream');
+            video.src = '/ppe?t=' + new Date().getTime();
+            addAlert('Stream Restarted', 'Video feed has been restarted successfully', 'info');
+        }
+
+        function stopStream() {
+            const video = document.getElementById('videoStream');
+            video.src = '';
+            addAlert('Stream Stopped', 'Video feed has been stopped', 'info');
+        }
+
+        function toggleFullscreen() {
+            const container = document.querySelector('.video-container');
+            if (document.fullscreenElement) {
+                document.exitFullscreen();
+            } else {
+                container.requestFullscreen();
+            }
+        }
+
+        // Connection status handling
+        function updateConnectionStatus(connected) {
+            const statusEl = document.getElementById('connectionStatus');
+            const textEl = document.getElementById('connectionText');
+            
+            if (connected) {
+                statusEl.classList.remove('disconnected');
+                statusEl.classList.add('connected');
+                textEl.textContent = 'Connected';
+                reconnectAttempts = 0;
+            } else {
+                statusEl.classList.remove('connected');
+                statusEl.classList.add('disconnected');
+                textEl.textContent = 'Disconnected';
+            }
+        }
+
+        // Fetch real-time data from backend
+        async function fetchStats() {
+            try {
+                const response = await fetch('/api/stats');
+                if (response.ok) {
+                    const data = await response.json();
+                    updateUI(data);
+                    updateConnectionStatus(true);
+                    return true;
+                } else {
+                    throw new Error('Failed to fetch stats');
+                }
+            } catch (error) {
+                console.error('Failed to fetch stats:', error);
+                updateConnectionStatus(false);
+                
+                // Attempt reconnection
+                if (reconnectAttempts < maxReconnectAttempts) {
+                    reconnectAttempts++;
+                    setTimeout(fetchStats, 2000 * reconnectAttempts);
+                }
+                return false;
+            }
+        }
+
+        function updateUI(data) {
+            document.getElementById('totalDetections').textContent = data.total;
+            document.getElementById('complianceDetections').textContent = data.compliance;
+            document.getElementById('violationDetections').textContent = data.violations;
+            document.getElementById('complianceRate').textContent = data.compliance_rate + '%';
+            
+            // Update chart
+            if (detectionChart) {
+                detectionChart.data.datasets[0].data = data.hourly_data;
+                detectionChart.update();
+            }
+            
+            // Update detection list
+            const detectionList = document.getElementById('detectionList');
+            if (data.recent_detections && data.recent_detections.length > 0) {
+                detectionList.innerHTML = data.recent_detections.map(detection => `
+                    <div class="detection-item ${detection.type}">
+                        <div class="detection-info">
+                            <span class="detection-class">${detection.class}</span>
+                            <span class="detection-confidence">Confidence: ${detection.confidence}%</span>
+                        </div>
+                        <span class="detection-time">${detection.time}</span>
+                    </div>
+                `).join('');
+            } else {
+                detectionList.innerHTML = `
+                    <div class="detection-item">
+                        <div class="detection-info">
+                            <span class="detection-class">No recent detections</span>
+                        </div>
+                    </div>
+                `;
+            }
+            
+            // Update alerts
+            updateAlerts(data.alerts);
+        }
+
+        function updateAlerts(alerts) {
+            const container = document.getElementById('alertContainer');
+            if (alerts && alerts.length > 0) {
+                container.innerHTML = alerts.map(alert => `
+                    <div class="alert-item ${alert.severity === 'info' ? 'info' : ''}">
+                        <div class="alert-title">${alert.title}</div>
+                        <div class="alert-message">${alert.message}</div>
+                    </div>
+                `).join('');
+            }
+        }
+
+        function addAlert(title, message, severity = 'danger') {
+            const container = document.getElementById('alertContainer');
+            const alertHtml = `
+                <div class="alert-item ${severity === 'info' ? 'info' : ''}">
+                    <div class="alert-title">${title}</div>
+                    <div class="alert-message">${message}</div>
+                </div>
+            `;
+            container.insertAdjacentHTML('afterbegin', alertHtml);
+            
+            // Keep only last 5 alerts
+            while (container.children.length > 5) {
+                container.removeChild(container.lastChild);
+            }
+        }
+
+        // Initialize dashboard
+        document.addEventListener('DOMContentLoaded', function() {
+            initChart();
+            loadVideoSources(); // Load video sources
+            fetchStats(); // Initial fetch
+            
+            // Poll for updates every 2 seconds
+            setInterval(fetchStats, 2000);
+        });
+    </script>
+</body>
+</html>
