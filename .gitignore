@@ -1,0 +1,249 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+.ENV/
+env.bak/
+venv.bak/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+ppe_detection.db
+data/*.db
+outputs/*.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# Model weights and large files
+weights/*.pt
+weights/*.pth
+weights/*.onnx
+weights/*.engine
+weights/*.trt
+*.pt
+*.pth
+*.onnx
+
+# Video files and media
+videos/*.mp4
+videos/*.avi
+videos/*.mov
+videos/*.mkv
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Output and temporary files
+outputs/
+*.log
+*.tmp
+*.temp
+.cache/
+*.cache
+temp/
+tmp/
+*.backup
+*.bak
+*.old
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# MyPy and type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-*
+*.code-workspace
+.spyderproject
+.spyproject
+.ropeproject
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Documentation builds
+docs/_build/
+docs/.doctrees/
+/site
+
+# Additional Python tools
+.python-version
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath
+*.sage.py
+$RECYCLE.BIN/
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Project specific
+*.backup
+*.bak
+*.old
+temp/
+tmp/
+
+# Documentation builds
+docs/_build/
+docs/.doctrees/
+
+# Additional Python tools
+.python-version
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath
+*.sage.py
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Rope
+.ropeproject
+
+# mkdocs
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+ppe_detection.db
+
+# Logs and outputs
+*.log
+outputs/
+temp/
+tmp/
+
+# Model weights and large binary files
+weights/*.pt
+weights/*.pth
+weights/*.onnx
+*.pt
+*.pth
+*.onnx
+
+# Video files and media
+videos/*.mp4
+videos/*.avi
+videos/*.mov
+*.mp4
+*.avi
+*.mov
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS specific
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -386,3 +386,3555 @@ INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
 INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
 INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
 INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60148 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60178 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60344 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60369 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60380 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60392 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60407 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60423 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60432 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60438 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60438 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60438 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60438 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60438 - "GET /ppe HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60442 - "GET /api/video-sources HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 252.2ms
+Speed: 16.1ms preprocess, 252.2ms inference, 9.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 192.9ms
+Speed: 1.3ms preprocess, 192.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 2 Persons, 195.6ms
+Speed: 1.4ms preprocess, 195.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 192.6ms
+Speed: 1.1ms preprocess, 192.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 193.6ms
+Speed: 1.4ms preprocess, 193.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 196.5ms
+Speed: 1.4ms preprocess, 196.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 192.5ms
+Speed: 1.1ms preprocess, 192.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 192.5ms
+Speed: 1.4ms preprocess, 192.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 193.7ms
+Speed: 1.4ms preprocess, 193.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 193.5ms
+Speed: 1.2ms preprocess, 193.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 193.2ms
+Speed: 1.4ms preprocess, 193.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 271.6ms
+Speed: 1.4ms preprocess, 271.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 208.4ms
+Speed: 1.4ms preprocess, 208.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 205.4ms
+Speed: 1.4ms preprocess, 205.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 192.9ms
+Speed: 1.2ms preprocess, 192.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 212.2ms
+Speed: 1.5ms preprocess, 212.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.1ms
+Speed: 1.3ms preprocess, 195.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.0ms
+Speed: 1.2ms preprocess, 195.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.3ms
+Speed: 1.5ms preprocess, 194.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 193.6ms
+Speed: 1.5ms preprocess, 193.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 193.5ms
+Speed: 1.1ms preprocess, 193.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 192.2ms
+Speed: 1.2ms preprocess, 192.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.4ms
+Speed: 1.5ms preprocess, 194.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.3ms
+Speed: 1.1ms preprocess, 195.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 229.2ms
+Speed: 1.6ms preprocess, 229.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 234.8ms
+Speed: 1.9ms preprocess, 234.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 208.4ms
+Speed: 1.5ms preprocess, 208.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 200.6ms
+Speed: 1.4ms preprocess, 200.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 240.2ms
+Speed: 1.2ms preprocess, 240.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 235.8ms
+Speed: 1.5ms preprocess, 235.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 211.0ms
+Speed: 1.1ms preprocess, 211.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 210.0ms
+Speed: 1.3ms preprocess, 210.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 223.2ms
+Speed: 1.4ms preprocess, 223.2ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 289.4ms
+Speed: 2.8ms preprocess, 289.4ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 234.1ms
+Speed: 1.2ms preprocess, 234.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.4ms
+Speed: 1.5ms preprocess, 197.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 227.2ms
+Speed: 1.5ms preprocess, 227.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 203.6ms
+Speed: 1.4ms preprocess, 203.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 NO-Safety Vests, 1 Person, 194.2ms
+Speed: 1.3ms preprocess, 194.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 191.6ms
+Speed: 1.2ms preprocess, 191.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 NO-Safety Vests, 2 Persons, 193.1ms
+Speed: 1.4ms preprocess, 193.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 205.3ms
+Speed: 1.5ms preprocess, 205.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.0ms
+Speed: 1.2ms preprocess, 194.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 202.8ms
+Speed: 1.3ms preprocess, 202.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 205.5ms
+Speed: 1.2ms preprocess, 205.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 198.5ms
+Speed: 1.3ms preprocess, 198.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 200.4ms
+Speed: 1.2ms preprocess, 200.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 269.9ms
+Speed: 1.5ms preprocess, 269.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 213.6ms
+Speed: 1.3ms preprocess, 213.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 215.5ms
+Speed: 1.2ms preprocess, 215.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 219.6ms
+Speed: 1.1ms preprocess, 219.6ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 203.0ms
+Speed: 1.6ms preprocess, 203.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 208.3ms
+Speed: 1.4ms preprocess, 208.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 216.5ms
+Speed: 1.6ms preprocess, 216.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 243.3ms
+Speed: 1.3ms preprocess, 243.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 214.0ms
+Speed: 1.4ms preprocess, 214.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 213.1ms
+Speed: 1.2ms preprocess, 213.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 233.6ms
+Speed: 1.2ms preprocess, 233.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 220.2ms
+Speed: 1.6ms preprocess, 220.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 201.6ms
+Speed: 1.2ms preprocess, 201.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 201.7ms
+Speed: 1.3ms preprocess, 201.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.1ms
+Speed: 1.4ms preprocess, 194.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 211.3ms
+Speed: 1.5ms preprocess, 211.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.6ms
+Speed: 1.3ms preprocess, 195.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 196.3ms
+Speed: 1.3ms preprocess, 196.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 202.4ms
+Speed: 1.3ms preprocess, 202.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.7ms
+Speed: 1.3ms preprocess, 197.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 196.6ms
+Speed: 1.5ms preprocess, 196.6ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 192.0ms
+Speed: 1.3ms preprocess, 192.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 212.0ms
+Speed: 1.3ms preprocess, 212.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 225.6ms
+Speed: 2.1ms preprocess, 225.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.2ms
+Speed: 1.5ms preprocess, 195.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 191.8ms
+Speed: 1.2ms preprocess, 191.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 192.7ms
+Speed: 1.4ms preprocess, 192.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 224.8ms
+Speed: 1.5ms preprocess, 224.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 215.3ms
+Speed: 1.3ms preprocess, 215.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 208.9ms
+Speed: 1.5ms preprocess, 208.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 207.9ms
+Speed: 1.5ms preprocess, 207.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 231.7ms
+Speed: 1.4ms preprocess, 231.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.4ms
+Speed: 1.3ms preprocess, 197.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 214.2ms
+Speed: 1.3ms preprocess, 214.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 224.3ms
+Speed: 1.4ms preprocess, 224.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 205.6ms
+Speed: 1.2ms preprocess, 205.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 207.3ms
+Speed: 1.3ms preprocess, 207.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 213.4ms
+Speed: 1.3ms preprocess, 213.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 202.8ms
+Speed: 1.5ms preprocess, 202.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 214.6ms
+Speed: 1.2ms preprocess, 214.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 213.8ms
+Speed: 1.2ms preprocess, 213.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.0ms
+Speed: 1.2ms preprocess, 195.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.5ms
+Speed: 1.2ms preprocess, 194.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 200.9ms
+Speed: 1.4ms preprocess, 200.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.1ms
+Speed: 1.4ms preprocess, 194.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 198.7ms
+Speed: 1.2ms preprocess, 198.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60451 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60451 - "GET /ppe HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 268.3ms
+Speed: 1.3ms preprocess, 268.3ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60453 - "GET /api/video-sources HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60455 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 1082.4ms
+Speed: 1.2ms preprocess, 1082.4ms inference, 1.1ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 485.0ms
+Speed: 1.7ms preprocess, 485.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 435.7ms
+Speed: 1.9ms preprocess, 435.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 406.8ms
+Speed: 1.6ms preprocess, 406.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 430.2ms
+Speed: 1.6ms preprocess, 430.2ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 537.0ms
+Speed: 1.7ms preprocess, 537.0ms inference, 0.8ms postprocess per image at shape (1, 3, 384, 640)
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 488.3ms
+Speed: 3.4ms preprocess, 488.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 214.5ms
+Speed: 1.3ms preprocess, 214.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 198.4ms
+Speed: 1.3ms preprocess, 198.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 194.7ms
+Speed: 1.5ms preprocess, 194.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.6ms
+Speed: 1.4ms preprocess, 195.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 193.4ms
+Speed: 1.4ms preprocess, 193.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.9ms
+Speed: 1.5ms preprocess, 195.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 205.1ms
+Speed: 1.4ms preprocess, 205.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 246.6ms
+Speed: 1.4ms preprocess, 246.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 224.9ms
+Speed: 1.2ms preprocess, 224.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 281.1ms
+Speed: 1.7ms preprocess, 281.1ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 353.6ms
+Speed: 3.4ms preprocess, 353.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 221.8ms
+Speed: 1.3ms preprocess, 221.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 217.6ms
+Speed: 1.5ms preprocess, 217.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 209.4ms
+Speed: 1.2ms preprocess, 209.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 205.1ms
+Speed: 1.4ms preprocess, 205.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 206.7ms
+Speed: 1.5ms preprocess, 206.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 225.3ms
+Speed: 1.4ms preprocess, 225.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 203.4ms
+Speed: 1.2ms preprocess, 203.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.8ms
+Speed: 1.2ms preprocess, 195.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 286.7ms
+Speed: 1.5ms preprocess, 286.7ms inference, 0.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 2 NO-Hardhats, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 248.6ms
+Speed: 1.4ms preprocess, 248.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 321.5ms
+Speed: 1.6ms preprocess, 321.5ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 205.7ms
+Speed: 1.4ms preprocess, 205.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 203.8ms
+Speed: 1.4ms preprocess, 203.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 201.9ms
+Speed: 1.4ms preprocess, 201.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 194.1ms
+Speed: 1.5ms preprocess, 194.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 194.1ms
+Speed: 1.5ms preprocess, 194.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 198.1ms
+Speed: 1.5ms preprocess, 198.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 193.3ms
+Speed: 1.5ms preprocess, 193.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 201.0ms
+Speed: 1.6ms preprocess, 201.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 193.7ms
+Speed: 1.5ms preprocess, 193.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 193.0ms
+Speed: 1.5ms preprocess, 193.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 190.9ms
+Speed: 1.5ms preprocess, 190.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.8ms
+Speed: 1.5ms preprocess, 194.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.4ms
+Speed: 1.5ms preprocess, 197.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 199.5ms
+Speed: 1.4ms preprocess, 199.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 196.1ms
+Speed: 1.4ms preprocess, 196.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.8ms
+Speed: 1.4ms preprocess, 195.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.2ms
+Speed: 1.5ms preprocess, 197.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.3ms
+Speed: 1.4ms preprocess, 195.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.5ms
+Speed: 1.5ms preprocess, 194.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 262.9ms
+Speed: 1.5ms preprocess, 262.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 208.9ms
+Speed: 1.7ms preprocess, 208.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 208.7ms
+Speed: 1.6ms preprocess, 208.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 220.6ms
+Speed: 1.3ms preprocess, 220.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 210.0ms
+Speed: 1.3ms preprocess, 210.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 213.7ms
+Speed: 1.4ms preprocess, 213.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60444 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60444 - "GET /ppe HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60462 - "GET /api/video-sources HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60463 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60463 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60463 - "GET /ppe HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60462 - "GET /api/video-sources HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60465 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 685.3ms
+Speed: 1.8ms preprocess, 685.3ms inference, 4.2ms postprocess per image at shape (1, 3, 384, 640)
+
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 515.4ms
+Speed: 4.7ms preprocess, 515.4ms inference, 1.1ms postprocess per image at shape (1, 3, 384, 640)
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 521.5ms
+Speed: 5.4ms preprocess, 521.5ms inference, 1.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 203.2ms
+Speed: 1.4ms preprocess, 203.2ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 297.7ms
+Speed: 1.3ms preprocess, 297.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60465 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 224.3ms
+Speed: 1.6ms preprocess, 224.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 219.0ms
+Speed: 1.2ms preprocess, 219.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 226.6ms
+Speed: 1.4ms preprocess, 226.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 226.6ms
+Speed: 1.4ms preprocess, 226.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 238.3ms
+Speed: 1.4ms preprocess, 238.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 209.2ms
+Speed: 1.4ms preprocess, 209.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 213.7ms
+Speed: 1.5ms preprocess, 213.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60465 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 212.2ms
+Speed: 1.3ms preprocess, 212.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 220.9ms
+Speed: 1.3ms preprocess, 220.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 207.9ms
+Speed: 1.3ms preprocess, 207.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 223.5ms
+Speed: 1.4ms preprocess, 223.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 222.8ms
+Speed: 1.2ms preprocess, 222.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 215.8ms
+Speed: 1.5ms preprocess, 215.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 220.7ms
+Speed: 1.4ms preprocess, 220.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60465 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 226.2ms
+Speed: 1.6ms preprocess, 226.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 240.9ms
+Speed: 1.8ms preprocess, 240.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 216.3ms
+Speed: 1.4ms preprocess, 216.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 221.3ms
+Speed: 1.3ms preprocess, 221.3ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 223.6ms
+Speed: 1.5ms preprocess, 223.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 214.7ms
+Speed: 1.6ms preprocess, 214.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 206.9ms
+Speed: 1.2ms preprocess, 206.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 234.4ms
+Speed: 1.4ms preprocess, 234.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:60472 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60472 - "GET /ppe HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60474 - "GET /api/video-sources HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 266.3ms
+Speed: 2.4ms preprocess, 266.3ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 228.0ms
+Speed: 2.2ms preprocess, 228.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 219.2ms
+Speed: 1.6ms preprocess, 219.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 205.5ms
+Speed: 1.4ms preprocess, 205.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 198.4ms
+Speed: 1.3ms preprocess, 198.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 270.3ms
+Speed: 1.2ms preprocess, 270.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 248.0ms
+Speed: 1.3ms preprocess, 248.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 203.7ms
+Speed: 1.3ms preprocess, 203.7ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 204.6ms
+Speed: 1.4ms preprocess, 204.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 197.6ms
+Speed: 1.3ms preprocess, 197.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 197.9ms
+Speed: 1.4ms preprocess, 197.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 196.8ms
+Speed: 1.4ms preprocess, 196.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 195.3ms
+Speed: 1.3ms preprocess, 195.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.5ms
+Speed: 1.6ms preprocess, 197.5ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.9ms
+Speed: 1.4ms preprocess, 197.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 220.3ms
+Speed: 1.5ms preprocess, 220.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 203.1ms
+Speed: 1.5ms preprocess, 203.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.0ms
+Speed: 1.4ms preprocess, 197.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 195.7ms
+Speed: 1.3ms preprocess, 195.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 232.3ms
+Speed: 1.4ms preprocess, 232.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 405.2ms
+Speed: 1.7ms preprocess, 405.2ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 267.6ms
+Speed: 4.5ms preprocess, 267.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 262.5ms
+Speed: 1.4ms preprocess, 262.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 340.9ms
+Speed: 1.4ms preprocess, 340.9ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 269.7ms
+Speed: 1.4ms preprocess, 269.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 250.8ms
+Speed: 1.4ms preprocess, 250.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 227.5ms
+Speed: 1.8ms preprocess, 227.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 221.9ms
+Speed: 1.4ms preprocess, 221.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 222.1ms
+Speed: 1.7ms preprocess, 222.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 224.3ms
+Speed: 1.4ms preprocess, 224.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 236.1ms
+Speed: 1.3ms preprocess, 236.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 240.1ms
+Speed: 1.4ms preprocess, 240.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 222.9ms
+Speed: 1.7ms preprocess, 222.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 235.4ms
+Speed: 1.2ms preprocess, 235.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 353.8ms
+Speed: 1.3ms preprocess, 353.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 252.4ms
+Speed: 1.2ms preprocess, 252.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 241.0ms
+Speed: 1.4ms preprocess, 241.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 203.6ms
+Speed: 1.3ms preprocess, 203.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 209.4ms
+Speed: 1.3ms preprocess, 209.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 233.0ms
+Speed: 1.2ms preprocess, 233.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 266.1ms
+Speed: 1.3ms preprocess, 266.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 252.3ms
+Speed: 1.2ms preprocess, 252.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 271.4ms
+Speed: 1.7ms preprocess, 271.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 263.5ms
+Speed: 1.9ms preprocess, 263.5ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 292.2ms
+Speed: 1.6ms preprocess, 292.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 254.6ms
+Speed: 1.3ms preprocess, 254.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 225.1ms
+Speed: 1.6ms preprocess, 225.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 231.1ms
+Speed: 1.4ms preprocess, 231.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 228.1ms
+Speed: 1.6ms preprocess, 228.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 224.2ms
+Speed: 1.7ms preprocess, 224.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 220.8ms
+Speed: 1.5ms preprocess, 220.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 221.9ms
+Speed: 1.2ms preprocess, 221.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 224.0ms
+Speed: 1.6ms preprocess, 224.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 229.0ms
+Speed: 1.2ms preprocess, 229.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 289.6ms
+Speed: 1.5ms preprocess, 289.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 210.5ms
+Speed: 1.4ms preprocess, 210.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 207.1ms
+Speed: 1.2ms preprocess, 207.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 202.6ms
+Speed: 1.4ms preprocess, 202.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 208.0ms
+Speed: 1.4ms preprocess, 208.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 203.2ms
+Speed: 1.4ms preprocess, 203.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 199.5ms
+Speed: 1.4ms preprocess, 199.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.5ms
+Speed: 1.4ms preprocess, 195.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 199.5ms
+Speed: 1.4ms preprocess, 199.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 197.6ms
+Speed: 1.4ms preprocess, 197.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.7ms
+Speed: 1.2ms preprocess, 197.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 245.7ms
+Speed: 1.4ms preprocess, 245.7ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 219.3ms
+Speed: 1.2ms preprocess, 219.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 226.6ms
+Speed: 1.4ms preprocess, 226.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 225.5ms
+Speed: 1.2ms preprocess, 225.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 235.4ms
+Speed: 1.3ms preprocess, 235.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 213.3ms
+Speed: 1.2ms preprocess, 213.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 214.2ms
+Speed: 1.3ms preprocess, 214.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 213.3ms
+Speed: 1.2ms preprocess, 213.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 215.9ms
+Speed: 1.2ms preprocess, 215.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 212.8ms
+Speed: 1.2ms preprocess, 212.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 212.9ms
+Speed: 1.2ms preprocess, 212.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 213.8ms
+Speed: 1.2ms preprocess, 213.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 215.9ms
+Speed: 1.3ms preprocess, 215.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 219.7ms
+Speed: 1.3ms preprocess, 219.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 217.8ms
+Speed: 1.6ms preprocess, 217.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 Person, 225.3ms
+Speed: 1.4ms preprocess, 225.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 235.3ms
+Speed: 1.5ms preprocess, 235.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 228.0ms
+Speed: 1.2ms preprocess, 228.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 258.2ms
+Speed: 1.2ms preprocess, 258.2ms inference, 0.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 244.0ms
+Speed: 1.3ms preprocess, 244.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 300.5ms
+Speed: 1.3ms preprocess, 300.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 223.5ms
+Speed: 1.2ms preprocess, 223.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 309.3ms
+Speed: 2.4ms preprocess, 309.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 240.5ms
+Speed: 1.2ms preprocess, 240.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 203.1ms
+Speed: 1.4ms preprocess, 203.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 201.7ms
+Speed: 1.5ms preprocess, 201.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 216.0ms
+Speed: 1.4ms preprocess, 216.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 224.0ms
+Speed: 1.3ms preprocess, 224.0ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 234.0ms
+Speed: 1.5ms preprocess, 234.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 203.7ms
+Speed: 1.5ms preprocess, 203.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 205.8ms
+Speed: 1.3ms preprocess, 205.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 205.9ms
+Speed: 1.4ms preprocess, 205.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 224.9ms
+Speed: 1.3ms preprocess, 224.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 331.2ms
+Speed: 1.2ms preprocess, 331.2ms inference, 0.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 262.2ms
+Speed: 1.2ms preprocess, 262.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 337.5ms
+Speed: 1.7ms preprocess, 337.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 448.0ms
+Speed: 8.7ms preprocess, 448.0ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 281.1ms
+Speed: 3.4ms preprocess, 281.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 2 Persons, 308.4ms
+Speed: 5.4ms preprocess, 308.4ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 408.6ms
+Speed: 1.4ms preprocess, 408.6ms inference, 1.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 2 Persons, 210.3ms
+Speed: 1.4ms preprocess, 210.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 205.5ms
+Speed: 1.7ms preprocess, 205.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 202.1ms
+Speed: 1.4ms preprocess, 202.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 223.8ms
+Speed: 1.3ms preprocess, 223.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.2ms
+Speed: 1.5ms preprocess, 197.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.0ms
+Speed: 1.4ms preprocess, 197.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 2 Persons, 201.0ms
+Speed: 1.3ms preprocess, 201.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 197.1ms
+Speed: 1.4ms preprocess, 197.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 220.5ms
+Speed: 1.4ms preprocess, 220.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 2 Persons, 196.8ms
+Speed: 1.5ms preprocess, 196.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 216.0ms
+Speed: 1.4ms preprocess, 216.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 375.8ms
+Speed: 1.5ms preprocess, 375.8ms inference, 0.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 2 Persons, 226.1ms
+Speed: 1.4ms preprocess, 226.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 2 Persons, 290.2ms
+Speed: 1.4ms preprocess, 290.2ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 249.8ms
+Speed: 1.4ms preprocess, 249.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 208.1ms
+Speed: 1.2ms preprocess, 208.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 200.8ms
+Speed: 1.4ms preprocess, 200.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 2 Persons, 194.6ms
+Speed: 1.4ms preprocess, 194.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 2 Persons, 212.6ms
+Speed: 1.2ms preprocess, 212.6ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 210.2ms
+Speed: 1.5ms preprocess, 210.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 223.0ms
+Speed: 1.3ms preprocess, 223.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 209.9ms
+Speed: 1.4ms preprocess, 209.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 2 Persons, 200.5ms
+Speed: 1.2ms preprocess, 200.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 199.8ms
+Speed: 1.5ms preprocess, 199.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 211.6ms
+Speed: 1.4ms preprocess, 211.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 204.1ms
+Speed: 1.3ms preprocess, 204.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 205.5ms
+Speed: 1.2ms preprocess, 205.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 200.0ms
+Speed: 1.3ms preprocess, 200.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 Person, 196.1ms
+Speed: 1.2ms preprocess, 196.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 208.1ms
+Speed: 1.5ms preprocess, 208.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 204.0ms
+Speed: 1.3ms preprocess, 204.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 204.2ms
+Speed: 1.2ms preprocess, 204.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 216.3ms
+Speed: 1.5ms preprocess, 216.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 222.2ms
+Speed: 1.2ms preprocess, 222.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 228.4ms
+Speed: 1.6ms preprocess, 228.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 236.3ms
+Speed: 2.1ms preprocess, 236.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 Person, 228.0ms
+Speed: 1.4ms preprocess, 228.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 222.6ms
+Speed: 1.3ms preprocess, 222.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 225.3ms
+Speed: 1.6ms preprocess, 225.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 225.1ms
+Speed: 1.3ms preprocess, 225.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 339.1ms
+Speed: 2.4ms preprocess, 339.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 311.0ms
+Speed: 1.6ms preprocess, 311.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 239.0ms
+Speed: 1.4ms preprocess, 239.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 239.9ms
+Speed: 1.6ms preprocess, 239.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 459.1ms
+Speed: 4.1ms preprocess, 459.1ms inference, 0.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 242.2ms
+Speed: 2.2ms preprocess, 242.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 220.1ms
+Speed: 1.5ms preprocess, 220.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.9ms
+Speed: 1.5ms preprocess, 195.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.3ms
+Speed: 1.2ms preprocess, 195.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 193.6ms
+Speed: 1.4ms preprocess, 193.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 198.4ms
+Speed: 1.4ms preprocess, 198.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.8ms
+Speed: 1.3ms preprocess, 194.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 204.6ms
+Speed: 1.4ms preprocess, 204.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 432.6ms
+Speed: 1.4ms preprocess, 432.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 376.0ms
+Speed: 1.9ms preprocess, 376.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 256.1ms
+Speed: 2.1ms preprocess, 256.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 212.4ms
+Speed: 1.6ms preprocess, 212.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 205.8ms
+Speed: 1.3ms preprocess, 205.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 213.8ms
+Speed: 1.4ms preprocess, 213.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 203.0ms
+Speed: 1.2ms preprocess, 203.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.6ms
+Speed: 1.4ms preprocess, 194.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.4ms
+Speed: 1.4ms preprocess, 194.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.3ms
+Speed: 1.2ms preprocess, 194.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 222.5ms
+Speed: 1.2ms preprocess, 222.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 230.0ms
+Speed: 1.6ms preprocess, 230.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.6ms
+Speed: 1.4ms preprocess, 194.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 196.3ms
+Speed: 1.6ms preprocess, 196.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 191.8ms
+Speed: 1.3ms preprocess, 191.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.8ms
+Speed: 1.5ms preprocess, 195.8ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.8ms
+Speed: 1.4ms preprocess, 194.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 238.5ms
+Speed: 1.5ms preprocess, 238.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.3ms
+Speed: 1.3ms preprocess, 194.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 196.5ms
+Speed: 1.5ms preprocess, 196.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 202.3ms
+Speed: 1.3ms preprocess, 202.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 199.9ms
+Speed: 1.4ms preprocess, 199.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.8ms
+Speed: 1.4ms preprocess, 195.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.8ms
+Speed: 1.1ms preprocess, 194.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.1ms
+Speed: 1.4ms preprocess, 195.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.9ms
+Speed: 1.5ms preprocess, 194.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 192.8ms
+Speed: 1.2ms preprocess, 192.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 268.2ms
+Speed: 1.6ms preprocess, 268.2ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 264.6ms
+Speed: 1.2ms preprocess, 264.6ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.5ms
+Speed: 1.5ms preprocess, 197.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 210.6ms
+Speed: 1.2ms preprocess, 210.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.1ms
+Speed: 1.3ms preprocess, 194.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 247.2ms
+Speed: 1.3ms preprocess, 247.2ms inference, 0.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 238.1ms
+Speed: 1.9ms preprocess, 238.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 234.5ms
+Speed: 1.7ms preprocess, 234.5ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 213.0ms
+Speed: 1.4ms preprocess, 213.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.1ms
+Speed: 1.3ms preprocess, 197.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 194.1ms
+Speed: 1.3ms preprocess, 194.1ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 193.0ms
+Speed: 1.4ms preprocess, 193.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 356.3ms
+Speed: 1.4ms preprocess, 356.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 242.8ms
+Speed: 1.6ms preprocess, 242.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 204.5ms
+Speed: 1.2ms preprocess, 204.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 263.7ms
+Speed: 1.5ms preprocess, 263.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 213.0ms
+Speed: 1.6ms preprocess, 213.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 202.5ms
+Speed: 1.4ms preprocess, 202.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 229.4ms
+Speed: 1.3ms preprocess, 229.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.9ms
+Speed: 1.3ms preprocess, 197.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.6ms
+Speed: 1.5ms preprocess, 197.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 296.0ms
+Speed: 11.9ms preprocess, 296.0ms inference, 0.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 205.7ms
+Speed: 1.4ms preprocess, 205.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 2 Persons, 193.8ms
+Speed: 1.3ms preprocess, 193.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 199.7ms
+Speed: 1.3ms preprocess, 199.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 215.8ms
+Speed: 1.3ms preprocess, 215.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 195.2ms
+Speed: 1.3ms preprocess, 195.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 229.0ms
+Speed: 1.5ms preprocess, 229.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 205.1ms
+Speed: 1.4ms preprocess, 205.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 202.6ms
+Speed: 1.4ms preprocess, 202.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 196.5ms
+Speed: 1.2ms preprocess, 196.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 222.5ms
+Speed: 1.3ms preprocess, 222.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 198.7ms
+Speed: 1.5ms preprocess, 198.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 194.5ms
+Speed: 1.4ms preprocess, 194.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.9ms
+Speed: 1.5ms preprocess, 195.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 188.3ms
+Speed: 1.4ms preprocess, 188.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 191.8ms
+Speed: 1.4ms preprocess, 191.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 205.7ms
+Speed: 18.7ms preprocess, 205.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 246.9ms
+Speed: 1.2ms preprocess, 246.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 284.3ms
+Speed: 1.3ms preprocess, 284.3ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 238.7ms
+Speed: 1.3ms preprocess, 238.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 201.7ms
+Speed: 1.4ms preprocess, 201.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 198.4ms
+Speed: 1.2ms preprocess, 198.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 195.8ms
+Speed: 1.4ms preprocess, 195.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 196.4ms
+Speed: 1.4ms preprocess, 196.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 204.5ms
+Speed: 1.2ms preprocess, 204.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 214.5ms
+Speed: 1.3ms preprocess, 214.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 215.2ms
+Speed: 1.3ms preprocess, 215.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 214.7ms
+Speed: 1.5ms preprocess, 214.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 202.8ms
+Speed: 1.3ms preprocess, 202.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 203.7ms
+Speed: 1.3ms preprocess, 203.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 195.0ms
+Speed: 1.3ms preprocess, 195.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.9ms
+Speed: 1.4ms preprocess, 194.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 202.8ms
+Speed: 1.4ms preprocess, 202.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 199.5ms
+Speed: 1.3ms preprocess, 199.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 210.0ms
+Speed: 1.3ms preprocess, 210.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 196.9ms
+Speed: 1.3ms preprocess, 196.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 208.3ms
+Speed: 1.5ms preprocess, 208.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 201.9ms
+Speed: 1.4ms preprocess, 201.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 208.9ms
+Speed: 1.5ms preprocess, 208.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 204.0ms
+Speed: 1.4ms preprocess, 204.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 210.7ms
+Speed: 1.4ms preprocess, 210.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 203.5ms
+Speed: 1.2ms preprocess, 203.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 198.2ms
+Speed: 1.5ms preprocess, 198.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 199.9ms
+Speed: 1.4ms preprocess, 199.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 201.8ms
+Speed: 1.3ms preprocess, 201.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 196.1ms
+Speed: 1.3ms preprocess, 196.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 205.7ms
+Speed: 1.5ms preprocess, 205.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 195.6ms
+Speed: 1.1ms preprocess, 195.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 194.6ms
+Speed: 1.5ms preprocess, 194.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 218.4ms
+Speed: 1.2ms preprocess, 218.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 200.3ms
+Speed: 1.6ms preprocess, 200.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 195.4ms
+Speed: 1.4ms preprocess, 195.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 194.2ms
+Speed: 1.4ms preprocess, 194.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 209.5ms
+Speed: 1.5ms preprocess, 209.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 196.8ms
+Speed: 1.4ms preprocess, 196.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 201.8ms
+Speed: 1.4ms preprocess, 201.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 195.1ms
+Speed: 1.4ms preprocess, 195.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 211.1ms
+Speed: 1.5ms preprocess, 211.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 199.2ms
+Speed: 1.3ms preprocess, 199.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 195.2ms
+Speed: 1.4ms preprocess, 195.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 195.9ms
+Speed: 1.6ms preprocess, 195.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 203.0ms
+Speed: 1.4ms preprocess, 203.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 202.2ms
+Speed: 1.3ms preprocess, 202.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 193.8ms
+Speed: 1.4ms preprocess, 193.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 197.8ms
+Speed: 1.6ms preprocess, 197.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 201.2ms
+Speed: 1.4ms preprocess, 201.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 195.3ms
+Speed: 1.5ms preprocess, 195.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 194.9ms
+Speed: 1.4ms preprocess, 194.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 197.9ms
+Speed: 1.5ms preprocess, 197.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 3 NO-Masks, 1 Person, 199.1ms
+Speed: 1.5ms preprocess, 199.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 196.1ms
+Speed: 1.3ms preprocess, 196.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 199.2ms
+Speed: 1.5ms preprocess, 199.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 224.7ms
+Speed: 1.5ms preprocess, 224.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 197.0ms
+Speed: 1.4ms preprocess, 197.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 219.4ms
+Speed: 1.1ms preprocess, 219.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 304.8ms
+Speed: 1.3ms preprocess, 304.8ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 194.6ms
+Speed: 1.5ms preprocess, 194.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Hardhat, 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 215.9ms
+Speed: 1.5ms preprocess, 215.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 214.8ms
+Speed: 1.2ms preprocess, 214.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 211.4ms
+Speed: 1.1ms preprocess, 211.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 192.9ms
+Speed: 1.3ms preprocess, 192.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 196.3ms
+Speed: 1.2ms preprocess, 196.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 196.8ms
+Speed: 1.2ms preprocess, 196.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 195.8ms
+Speed: 1.4ms preprocess, 195.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 221.1ms
+Speed: 1.2ms preprocess, 221.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 193.2ms
+Speed: 1.2ms preprocess, 193.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 192.2ms
+Speed: 1.5ms preprocess, 192.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.3ms
+Speed: 1.4ms preprocess, 197.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 193.4ms
+Speed: 1.3ms preprocess, 193.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 201.4ms
+Speed: 1.5ms preprocess, 201.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 190.0ms
+Speed: 1.4ms preprocess, 190.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 210.0ms
+Speed: 1.2ms preprocess, 210.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 213.6ms
+Speed: 1.2ms preprocess, 213.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 200.8ms
+Speed: 1.3ms preprocess, 200.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 204.7ms
+Speed: 1.4ms preprocess, 204.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 203.7ms
+Speed: 1.1ms preprocess, 203.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 202.8ms
+Speed: 1.4ms preprocess, 202.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 230.4ms
+Speed: 1.4ms preprocess, 230.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 191.6ms
+Speed: 1.5ms preprocess, 191.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 210.0ms
+Speed: 1.2ms preprocess, 210.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 206.4ms
+Speed: 1.2ms preprocess, 206.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 266.2ms
+Speed: 1.4ms preprocess, 266.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 289.0ms
+Speed: 1.3ms preprocess, 289.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 206.9ms
+Speed: 1.2ms preprocess, 206.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 203.2ms
+Speed: 1.4ms preprocess, 203.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 216.0ms
+Speed: 1.3ms preprocess, 216.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 214.5ms
+Speed: 1.3ms preprocess, 214.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 213.7ms
+Speed: 1.3ms preprocess, 213.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 203.0ms
+Speed: 1.2ms preprocess, 203.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 201.2ms
+Speed: 1.4ms preprocess, 201.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 196.7ms
+Speed: 1.5ms preprocess, 196.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 194.9ms
+Speed: 1.1ms preprocess, 194.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 201.3ms
+Speed: 1.2ms preprocess, 201.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.1ms
+Speed: 1.4ms preprocess, 197.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 193.1ms
+Speed: 1.4ms preprocess, 193.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 225.0ms
+Speed: 1.7ms preprocess, 225.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 248.3ms
+Speed: 1.8ms preprocess, 248.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 318.5ms
+Speed: 1.3ms preprocess, 318.5ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 234.4ms
+Speed: 1.2ms preprocess, 234.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 196.4ms
+Speed: 1.4ms preprocess, 196.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 204.4ms
+Speed: 1.3ms preprocess, 204.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 209.7ms
+Speed: 1.6ms preprocess, 209.7ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 Person, 238.6ms
+Speed: 1.8ms preprocess, 238.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 233.9ms
+Speed: 1.2ms preprocess, 233.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 200.3ms
+Speed: 1.2ms preprocess, 200.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.4ms
+Speed: 1.3ms preprocess, 195.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.0ms
+Speed: 1.4ms preprocess, 195.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 198.7ms
+Speed: 1.4ms preprocess, 198.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 194.9ms
+Speed: 1.2ms preprocess, 194.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.6ms
+Speed: 1.5ms preprocess, 195.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 Person, 198.8ms
+Speed: 1.4ms preprocess, 198.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 194.5ms
+Speed: 1.3ms preprocess, 194.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 194.8ms
+Speed: 1.5ms preprocess, 194.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.3ms
+Speed: 1.3ms preprocess, 195.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 227.8ms
+Speed: 1.2ms preprocess, 227.8ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 341.8ms
+Speed: 1.8ms preprocess, 341.8ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 203.6ms
+Speed: 1.5ms preprocess, 203.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 Person, 191.3ms
+Speed: 1.2ms preprocess, 191.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 216.5ms
+Speed: 1.5ms preprocess, 216.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.3ms
+Speed: 1.3ms preprocess, 196.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 223.3ms
+Speed: 1.1ms preprocess, 223.3ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 365.5ms
+Speed: 1.5ms preprocess, 365.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 406.9ms
+Speed: 2.1ms preprocess, 406.9ms inference, 0.8ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 Person, 330.7ms
+Speed: 2.0ms preprocess, 330.7ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 218.9ms
+Speed: 1.3ms preprocess, 218.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 222.3ms
+Speed: 1.5ms preprocess, 222.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.7ms
+Speed: 1.5ms preprocess, 197.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 202.5ms
+Speed: 1.4ms preprocess, 202.5ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 237.9ms
+Speed: 1.4ms preprocess, 237.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60476 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 Person, 192.9ms
+Speed: 1.2ms preprocess, 192.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.1ms
+Speed: 1.5ms preprocess, 196.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 201.0ms
+Speed: 1.6ms preprocess, 201.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.5ms
+Speed: 1.2ms preprocess, 195.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.9ms
+Speed: 1.4ms preprocess, 195.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.0ms
+Speed: 1.5ms preprocess, 197.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.9ms
+Speed: 1.2ms preprocess, 196.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.8ms
+Speed: 1.4ms preprocess, 195.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.5ms
+Speed: 1.4ms preprocess, 198.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.4ms
+Speed: 1.2ms preprocess, 194.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.5ms
+Speed: 1.5ms preprocess, 198.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.2ms
+Speed: 1.4ms preprocess, 196.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.2ms
+Speed: 1.2ms preprocess, 195.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 205.0ms
+Speed: 1.2ms preprocess, 205.0ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 230.9ms
+Speed: 1.8ms preprocess, 230.9ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 256.2ms
+Speed: 1.4ms preprocess, 256.2ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 276.2ms
+Speed: 1.3ms preprocess, 276.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.9ms
+Speed: 1.2ms preprocess, 198.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.4ms
+Speed: 1.3ms preprocess, 197.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 194.6ms
+Speed: 1.5ms preprocess, 194.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 198.6ms
+Speed: 1.5ms preprocess, 198.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 199.4ms
+Speed: 1.4ms preprocess, 199.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 199.0ms
+Speed: 1.3ms preprocess, 199.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 198.5ms
+Speed: 1.5ms preprocess, 198.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 250.8ms
+Speed: 1.2ms preprocess, 250.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.0ms
+Speed: 1.2ms preprocess, 197.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.5ms
+Speed: 1.4ms preprocess, 196.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 199.0ms
+Speed: 1.4ms preprocess, 199.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.8ms
+Speed: 1.2ms preprocess, 197.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.7ms
+Speed: 1.2ms preprocess, 197.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 199.3ms
+Speed: 1.4ms preprocess, 199.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.5ms
+Speed: 1.4ms preprocess, 197.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 208.1ms
+Speed: 1.5ms preprocess, 208.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.1ms
+Speed: 1.3ms preprocess, 197.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.7ms
+Speed: 1.4ms preprocess, 197.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.2ms
+Speed: 1.4ms preprocess, 197.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.6ms
+Speed: 1.4ms preprocess, 197.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.9ms
+Speed: 1.5ms preprocess, 196.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 192.8ms
+Speed: 1.6ms preprocess, 192.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 202.5ms
+Speed: 1.3ms preprocess, 202.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.9ms
+Speed: 1.4ms preprocess, 197.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 2 Persons, 196.2ms
+Speed: 1.2ms preprocess, 196.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 199.0ms
+Speed: 1.4ms preprocess, 199.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.6ms
+Speed: 1.3ms preprocess, 197.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.6ms
+Speed: 1.1ms preprocess, 195.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.3ms
+Speed: 1.2ms preprocess, 196.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.1ms
+Speed: 1.4ms preprocess, 197.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.0ms
+Speed: 1.3ms preprocess, 196.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.3ms
+Speed: 1.5ms preprocess, 196.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 198.9ms
+Speed: 1.4ms preprocess, 198.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.0ms
+Speed: 1.4ms preprocess, 196.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 205.0ms
+Speed: 1.4ms preprocess, 205.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.2ms
+Speed: 1.4ms preprocess, 196.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.9ms
+Speed: 1.5ms preprocess, 195.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.9ms
+Speed: 1.5ms preprocess, 196.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.6ms
+Speed: 1.4ms preprocess, 196.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.4ms
+Speed: 1.5ms preprocess, 196.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.8ms
+Speed: 1.5ms preprocess, 196.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.1ms
+Speed: 1.4ms preprocess, 195.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.5ms
+Speed: 1.2ms preprocess, 194.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 192.9ms
+Speed: 1.2ms preprocess, 192.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.5ms
+Speed: 1.5ms preprocess, 195.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.3ms
+Speed: 1.4ms preprocess, 197.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.6ms
+Speed: 1.1ms preprocess, 195.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.7ms
+Speed: 1.4ms preprocess, 195.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.3ms
+Speed: 1.4ms preprocess, 195.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.2ms
+Speed: 1.1ms preprocess, 197.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.8ms
+Speed: 1.3ms preprocess, 195.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 193.4ms
+Speed: 1.3ms preprocess, 193.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.9ms
+Speed: 1.2ms preprocess, 194.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.9ms
+Speed: 1.4ms preprocess, 198.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.4ms
+Speed: 1.3ms preprocess, 194.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 194.0ms
+Speed: 1.2ms preprocess, 194.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 197.1ms
+Speed: 1.5ms preprocess, 197.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 195.8ms
+Speed: 1.4ms preprocess, 195.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 194.6ms
+Speed: 1.5ms preprocess, 194.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 195.2ms
+Speed: 1.5ms preprocess, 195.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.8ms
+Speed: 1.4ms preprocess, 195.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.8ms
+Speed: 1.3ms preprocess, 194.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.3ms
+Speed: 1.5ms preprocess, 194.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.7ms
+Speed: 1.4ms preprocess, 195.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 194.4ms
+Speed: 1.5ms preprocess, 194.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 194.1ms
+Speed: 1.4ms preprocess, 194.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.5ms
+Speed: 1.4ms preprocess, 195.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.4ms
+Speed: 1.1ms preprocess, 195.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.6ms
+Speed: 1.5ms preprocess, 195.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 194.9ms
+Speed: 1.4ms preprocess, 194.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 193.1ms
+Speed: 1.4ms preprocess, 193.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.2ms
+Speed: 1.5ms preprocess, 195.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 194.8ms
+Speed: 1.4ms preprocess, 194.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 192.9ms
+Speed: 1.3ms preprocess, 192.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 194.4ms
+Speed: 1.5ms preprocess, 194.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 193.7ms
+Speed: 1.4ms preprocess, 193.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 194.0ms
+Speed: 1.5ms preprocess, 194.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.0ms
+Speed: 1.6ms preprocess, 195.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.3ms
+Speed: 1.4ms preprocess, 195.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 192.1ms
+Speed: 1.3ms preprocess, 192.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 194.0ms
+Speed: 1.4ms preprocess, 194.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 193.3ms
+Speed: 1.5ms preprocess, 193.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 195.8ms
+Speed: 1.4ms preprocess, 195.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 192.6ms
+Speed: 1.4ms preprocess, 192.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 192.8ms
+Speed: 1.2ms preprocess, 192.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 194.6ms
+Speed: 1.4ms preprocess, 194.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 192.6ms
+Speed: 1.1ms preprocess, 192.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 198.2ms
+Speed: 1.5ms preprocess, 198.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.0ms
+Speed: 1.4ms preprocess, 197.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 193.6ms
+Speed: 1.1ms preprocess, 193.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 193.4ms
+Speed: 1.2ms preprocess, 193.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 198.0ms
+Speed: 1.4ms preprocess, 198.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 220.6ms
+Speed: 1.2ms preprocess, 220.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 195.7ms
+Speed: 1.2ms preprocess, 195.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 194.6ms
+Speed: 1.4ms preprocess, 194.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 196.3ms
+Speed: 1.2ms preprocess, 196.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 192.8ms
+Speed: 1.2ms preprocess, 192.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 193.4ms
+Speed: 1.2ms preprocess, 193.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.4ms
+Speed: 1.4ms preprocess, 195.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 193.5ms
+Speed: 1.2ms preprocess, 193.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 193.9ms
+Speed: 1.3ms preprocess, 193.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.3ms
+Speed: 1.4ms preprocess, 195.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 192.9ms
+Speed: 1.4ms preprocess, 192.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 2 NO-Hardhats, 2 Persons, 190.8ms
+Speed: 1.2ms preprocess, 190.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60524 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 2 Persons, 197.8ms
+Speed: 1.3ms preprocess, 197.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 194.2ms
+Speed: 1.4ms preprocess, 194.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 194.0ms
+Speed: 1.5ms preprocess, 194.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 192.8ms
+Speed: 1.5ms preprocess, 192.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 193.5ms
+Speed: 1.4ms preprocess, 193.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 193.9ms
+Speed: 1.4ms preprocess, 193.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Safety Vest, 2 Persons, 194.9ms
+Speed: 1.5ms preprocess, 194.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 199.4ms
+Speed: 1.4ms preprocess, 199.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 192.3ms
+Speed: 1.4ms preprocess, 192.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Safety Vest, 1 Person, 195.1ms
+Speed: 1.5ms preprocess, 195.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Safety Vest, 1 Person, 195.7ms
+Speed: 1.3ms preprocess, 195.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Safety Vest, 1 Person, 194.1ms
+Speed: 1.4ms preprocess, 194.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 193.3ms
+Speed: 1.5ms preprocess, 193.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 196.4ms
+Speed: 1.4ms preprocess, 196.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 194.5ms
+Speed: 1.4ms preprocess, 194.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Safety Vest, 1 Person, 195.4ms
+Speed: 1.5ms preprocess, 195.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 198.3ms
+Speed: 1.5ms preprocess, 198.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 197.4ms
+Speed: 1.3ms preprocess, 197.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Safety Vest, 1 Person, 195.8ms
+Speed: 1.5ms preprocess, 195.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 196.5ms
+Speed: 1.2ms preprocess, 196.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 199.2ms
+Speed: 1.4ms preprocess, 199.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 200.2ms
+Speed: 1.3ms preprocess, 200.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 198.0ms
+Speed: 1.2ms preprocess, 198.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 195.4ms
+Speed: 1.3ms preprocess, 195.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Safety Vest, 1 Person, 197.4ms
+Speed: 1.2ms preprocess, 197.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 195.9ms
+Speed: 1.5ms preprocess, 195.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Safety Vest, 1 Person, 198.0ms
+Speed: 1.4ms preprocess, 198.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 Person, 197.3ms
+Speed: 1.3ms preprocess, 197.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 198.4ms
+Speed: 1.4ms preprocess, 198.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 197.0ms
+Speed: 1.3ms preprocess, 197.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 195.6ms
+Speed: 1.5ms preprocess, 195.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 194.4ms
+Speed: 1.4ms preprocess, 194.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 198.3ms
+Speed: 1.4ms preprocess, 198.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 195.7ms
+Speed: 1.4ms preprocess, 195.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 195.9ms
+Speed: 1.5ms preprocess, 195.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 197.7ms
+Speed: 1.4ms preprocess, 197.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Safety Vest, 2 Persons, 195.9ms
+Speed: 1.4ms preprocess, 195.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 196.0ms
+Speed: 1.5ms preprocess, 196.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 197.7ms
+Speed: 1.4ms preprocess, 197.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Safety Vest, 2 Persons, 198.7ms
+Speed: 1.5ms preprocess, 198.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 194.3ms
+Speed: 1.4ms preprocess, 194.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Safety Vest, 1 Person, 196.6ms
+Speed: 1.4ms preprocess, 196.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Safety Vest, 1 Person, 196.6ms
+Speed: 1.5ms preprocess, 196.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Safety Vest, 1 Person, 201.3ms
+Speed: 1.4ms preprocess, 201.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Safety Vest, 2 Persons, 199.3ms
+Speed: 1.4ms preprocess, 199.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Safety Vest, 1 Person, 197.2ms
+Speed: 1.4ms preprocess, 197.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Safety Vest, 2 Persons, 191.0ms
+Speed: 1.3ms preprocess, 191.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Safety Vest, 2 Persons, 197.5ms
+Speed: 1.4ms preprocess, 197.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 196.6ms
+Speed: 1.4ms preprocess, 196.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 196.7ms
+Speed: 1.5ms preprocess, 196.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 196.4ms
+Speed: 1.4ms preprocess, 196.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 198.1ms
+Speed: 1.4ms preprocess, 198.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 196.9ms
+Speed: 1.5ms preprocess, 196.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 196.7ms
+Speed: 1.4ms preprocess, 196.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 200.1ms
+Speed: 1.3ms preprocess, 200.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 199.8ms
+Speed: 1.4ms preprocess, 199.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 196.7ms
+Speed: 1.4ms preprocess, 196.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 198.5ms
+Speed: 1.4ms preprocess, 198.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 199.9ms
+Speed: 1.4ms preprocess, 199.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 208.1ms
+Speed: 1.3ms preprocess, 208.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 200.6ms
+Speed: 1.2ms preprocess, 200.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 193.2ms
+Speed: 1.6ms preprocess, 193.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 199.8ms
+Speed: 1.5ms preprocess, 199.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 195.4ms
+Speed: 1.3ms preprocess, 195.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 201.0ms
+Speed: 1.5ms preprocess, 201.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 196.4ms
+Speed: 1.2ms preprocess, 196.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 196.6ms
+Speed: 1.5ms preprocess, 196.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 197.6ms
+Speed: 1.5ms preprocess, 197.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 194.9ms
+Speed: 1.5ms preprocess, 194.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 203.6ms
+Speed: 1.4ms preprocess, 203.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 223.8ms
+Speed: 1.3ms preprocess, 223.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 329.8ms
+Speed: 1.2ms preprocess, 329.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 234.9ms
+Speed: 1.4ms preprocess, 234.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 200.3ms
+Speed: 1.4ms preprocess, 200.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 209.3ms
+Speed: 3.1ms preprocess, 209.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.3ms
+Speed: 1.4ms preprocess, 195.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.3ms
+Speed: 1.1ms preprocess, 197.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.3ms
+Speed: 1.4ms preprocess, 197.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.7ms
+Speed: 1.4ms preprocess, 197.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 194.2ms
+Speed: 1.2ms preprocess, 194.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.8ms
+Speed: 1.3ms preprocess, 197.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.4ms
+Speed: 1.3ms preprocess, 195.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 194.8ms
+Speed: 1.4ms preprocess, 194.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 208.4ms
+Speed: 1.5ms preprocess, 208.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 209.2ms
+Speed: 1.4ms preprocess, 209.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 199.3ms
+Speed: 1.4ms preprocess, 199.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 2 NO-Hardhats, 1 Person, 190.2ms
+Speed: 1.5ms preprocess, 190.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.2ms
+Speed: 1.2ms preprocess, 196.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 199.7ms
+Speed: 1.3ms preprocess, 199.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 303.4ms
+Speed: 1.3ms preprocess, 303.4ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 219.0ms
+Speed: 1.3ms preprocess, 219.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 283.1ms
+Speed: 1.4ms preprocess, 283.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 245.2ms
+Speed: 1.2ms preprocess, 245.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 268.6ms
+Speed: 1.4ms preprocess, 268.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 200.8ms
+Speed: 1.7ms preprocess, 200.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 201.4ms
+Speed: 1.3ms preprocess, 201.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 196.4ms
+Speed: 1.3ms preprocess, 196.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.3ms
+Speed: 1.5ms preprocess, 198.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.9ms
+Speed: 1.4ms preprocess, 196.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.4ms
+Speed: 1.5ms preprocess, 196.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 2 Persons, 211.8ms
+Speed: 1.4ms preprocess, 211.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 210.4ms
+Speed: 1.2ms preprocess, 210.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 207.9ms
+Speed: 1.3ms preprocess, 207.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 201.6ms
+Speed: 1.5ms preprocess, 201.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 201.6ms
+Speed: 1.5ms preprocess, 201.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 204.7ms
+Speed: 1.4ms preprocess, 204.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.3ms
+Speed: 1.4ms preprocess, 196.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 198.5ms
+Speed: 1.4ms preprocess, 198.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.0ms
+Speed: 1.4ms preprocess, 195.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.7ms
+Speed: 1.5ms preprocess, 196.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.0ms
+Speed: 1.4ms preprocess, 197.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.8ms
+Speed: 1.4ms preprocess, 196.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.2ms
+Speed: 1.5ms preprocess, 195.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.1ms
+Speed: 1.4ms preprocess, 198.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.3ms
+Speed: 1.4ms preprocess, 196.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.4ms
+Speed: 1.5ms preprocess, 196.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.6ms
+Speed: 1.4ms preprocess, 195.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.1ms
+Speed: 1.5ms preprocess, 197.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Safety Vest, 1 Person, 208.6ms
+Speed: 1.5ms preprocess, 208.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.6ms
+Speed: 1.3ms preprocess, 195.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 209.4ms
+Speed: 1.4ms preprocess, 209.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.8ms
+Speed: 1.4ms preprocess, 195.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.0ms
+Speed: 1.4ms preprocess, 195.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.1ms
+Speed: 1.4ms preprocess, 196.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 198.0ms
+Speed: 1.5ms preprocess, 198.0ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.1ms
+Speed: 1.4ms preprocess, 197.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.7ms
+Speed: 1.4ms preprocess, 194.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.7ms
+Speed: 1.6ms preprocess, 194.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 203.2ms
+Speed: 1.4ms preprocess, 203.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.5ms
+Speed: 1.3ms preprocess, 194.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.7ms
+Speed: 1.5ms preprocess, 195.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.2ms
+Speed: 1.4ms preprocess, 196.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.3ms
+Speed: 1.4ms preprocess, 197.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.8ms
+Speed: 1.4ms preprocess, 195.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.5ms
+Speed: 1.4ms preprocess, 196.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 198.6ms
+Speed: 1.4ms preprocess, 198.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 198.3ms
+Speed: 1.5ms preprocess, 198.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 2 NO-Hardhats, 1 Person, 196.2ms
+Speed: 1.3ms preprocess, 196.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.2ms
+Speed: 1.4ms preprocess, 197.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 209.0ms
+Speed: 1.5ms preprocess, 209.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.8ms
+Speed: 1.3ms preprocess, 196.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.4ms
+Speed: 1.5ms preprocess, 197.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 194.5ms
+Speed: 1.4ms preprocess, 194.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 199.0ms
+Speed: 1.4ms preprocess, 199.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.2ms
+Speed: 1.2ms preprocess, 196.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.8ms
+Speed: 1.4ms preprocess, 195.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.0ms
+Speed: 1.4ms preprocess, 197.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.1ms
+Speed: 1.4ms preprocess, 198.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.1ms
+Speed: 1.4ms preprocess, 198.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.5ms
+Speed: 1.4ms preprocess, 197.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 2 Persons, 198.2ms
+Speed: 1.5ms preprocess, 198.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.4ms
+Speed: 1.4ms preprocess, 196.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.4ms
+Speed: 1.4ms preprocess, 197.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.4ms
+Speed: 1.4ms preprocess, 196.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 200.3ms
+Speed: 1.4ms preprocess, 200.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.6ms
+Speed: 1.4ms preprocess, 197.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 197.5ms
+Speed: 1.2ms preprocess, 197.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.7ms
+Speed: 1.2ms preprocess, 195.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 207.7ms
+Speed: 1.4ms preprocess, 207.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 200.2ms
+Speed: 1.4ms preprocess, 200.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.6ms
+Speed: 1.2ms preprocess, 196.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.5ms
+Speed: 1.5ms preprocess, 196.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 197.5ms
+Speed: 1.2ms preprocess, 197.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Safety Vest, 1 Person, 197.7ms
+Speed: 1.2ms preprocess, 197.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Safety Vest, 1 Person, 197.6ms
+Speed: 1.4ms preprocess, 197.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 198.0ms
+Speed: 1.4ms preprocess, 198.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.5ms
+Speed: 1.3ms preprocess, 197.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.8ms
+Speed: 1.4ms preprocess, 196.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.7ms
+Speed: 1.4ms preprocess, 197.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.7ms
+Speed: 1.3ms preprocess, 198.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Safety Vest, 2 Persons, 198.2ms
+Speed: 1.5ms preprocess, 198.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 2 Persons, 198.6ms
+Speed: 1.4ms preprocess, 198.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 195.2ms
+Speed: 1.4ms preprocess, 195.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 199.1ms
+Speed: 1.5ms preprocess, 199.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.0ms
+Speed: 1.4ms preprocess, 197.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.8ms
+Speed: 1.5ms preprocess, 196.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.8ms
+Speed: 1.4ms preprocess, 197.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 205.1ms
+Speed: 1.4ms preprocess, 205.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.8ms
+Speed: 1.4ms preprocess, 195.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.9ms
+Speed: 1.5ms preprocess, 196.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.3ms
+Speed: 1.5ms preprocess, 197.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Mask, 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 196.4ms
+Speed: 1.5ms preprocess, 196.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.6ms
+Speed: 1.5ms preprocess, 196.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.9ms
+Speed: 1.4ms preprocess, 197.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.6ms
+Speed: 1.2ms preprocess, 197.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 195.4ms
+Speed: 1.4ms preprocess, 195.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.8ms
+Speed: 1.4ms preprocess, 197.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.6ms
+Speed: 1.5ms preprocess, 196.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 198.3ms
+Speed: 1.4ms preprocess, 198.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.8ms
+Speed: 1.4ms preprocess, 196.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.3ms
+Speed: 1.5ms preprocess, 196.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.8ms
+Speed: 1.5ms preprocess, 196.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 198.0ms
+Speed: 1.4ms preprocess, 198.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 198.1ms
+Speed: 1.4ms preprocess, 198.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 197.0ms
+Speed: 1.5ms preprocess, 197.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.4ms
+Speed: 1.4ms preprocess, 197.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 204.6ms
+Speed: 1.5ms preprocess, 204.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 2 NO-Hardhats, 1 Person, 195.9ms
+Speed: 1.4ms preprocess, 195.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.5ms
+Speed: 1.4ms preprocess, 196.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.9ms
+Speed: 1.3ms preprocess, 197.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.6ms
+Speed: 1.5ms preprocess, 197.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.5ms
+Speed: 1.4ms preprocess, 197.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.9ms
+Speed: 1.4ms preprocess, 195.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 201.6ms
+Speed: 1.4ms preprocess, 201.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.6ms
+Speed: 1.4ms preprocess, 197.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.4ms
+Speed: 1.4ms preprocess, 196.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.2ms
+Speed: 1.5ms preprocess, 197.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 201.0ms
+Speed: 1.3ms preprocess, 201.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.8ms
+Speed: 1.5ms preprocess, 197.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.8ms
+Speed: 1.5ms preprocess, 198.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.6ms
+Speed: 1.4ms preprocess, 197.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.6ms
+Speed: 1.4ms preprocess, 195.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.3ms
+Speed: 1.5ms preprocess, 196.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 209.0ms
+Speed: 1.4ms preprocess, 209.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.9ms
+Speed: 1.4ms preprocess, 196.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 204.0ms
+Speed: 1.4ms preprocess, 204.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.8ms
+Speed: 1.3ms preprocess, 196.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.7ms
+Speed: 1.5ms preprocess, 194.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.1ms
+Speed: 1.5ms preprocess, 198.1ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 200.9ms
+Speed: 1.4ms preprocess, 200.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.5ms
+Speed: 1.4ms preprocess, 195.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.3ms
+Speed: 1.5ms preprocess, 197.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.6ms
+Speed: 1.3ms preprocess, 195.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.9ms
+Speed: 1.4ms preprocess, 195.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60537 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 Person, 211.1ms
+Speed: 1.5ms preprocess, 211.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.5ms
+Speed: 1.3ms preprocess, 197.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.1ms
+Speed: 1.5ms preprocess, 196.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 2 Persons, 197.0ms
+Speed: 1.4ms preprocess, 197.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 199.6ms
+Speed: 1.4ms preprocess, 199.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.8ms
+Speed: 1.4ms preprocess, 196.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.9ms
+Speed: 1.6ms preprocess, 195.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 199.0ms
+Speed: 1.4ms preprocess, 199.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.8ms
+Speed: 1.2ms preprocess, 196.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.9ms
+Speed: 1.4ms preprocess, 198.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 202.8ms
+Speed: 1.4ms preprocess, 202.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.9ms
+Speed: 1.3ms preprocess, 196.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.9ms
+Speed: 1.4ms preprocess, 197.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.6ms
+Speed: 1.4ms preprocess, 196.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.8ms
+Speed: 1.5ms preprocess, 196.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 193.6ms
+Speed: 1.5ms preprocess, 193.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.5ms
+Speed: 1.4ms preprocess, 196.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.0ms
+Speed: 1.4ms preprocess, 196.0ms inference, 1.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.5ms
+Speed: 1.4ms preprocess, 195.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.2ms
+Speed: 1.5ms preprocess, 195.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.9ms
+Speed: 1.4ms preprocess, 198.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 193.9ms
+Speed: 1.4ms preprocess, 193.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.1ms
+Speed: 1.4ms preprocess, 197.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 (no detections), 193.4ms
+Speed: 1.4ms preprocess, 193.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.9ms
+Speed: 1.5ms preprocess, 195.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 (no detections), 195.0ms
+Speed: 1.4ms preprocess, 195.0ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 (no detections), 196.9ms
+Speed: 1.5ms preprocess, 196.9ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 193.5ms
+Speed: 1.5ms preprocess, 193.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 189.7ms
+Speed: 1.3ms preprocess, 189.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.7ms
+Speed: 1.3ms preprocess, 196.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.3ms
+Speed: 1.3ms preprocess, 198.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 194.0ms
+Speed: 1.2ms preprocess, 194.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.5ms
+Speed: 1.3ms preprocess, 194.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.3ms
+Speed: 1.5ms preprocess, 195.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.7ms
+Speed: 1.5ms preprocess, 194.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.1ms
+Speed: 1.4ms preprocess, 196.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.4ms
+Speed: 1.4ms preprocess, 194.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.2ms
+Speed: 1.4ms preprocess, 195.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.0ms
+Speed: 1.4ms preprocess, 195.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.0ms
+Speed: 1.5ms preprocess, 195.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.7ms
+Speed: 1.5ms preprocess, 194.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.6ms
+Speed: 1.4ms preprocess, 196.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.1ms
+Speed: 1.5ms preprocess, 196.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.8ms
+Speed: 1.4ms preprocess, 196.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.7ms
+Speed: 1.4ms preprocess, 195.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 192.9ms
+Speed: 1.4ms preprocess, 192.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.7ms
+Speed: 1.5ms preprocess, 197.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.4ms
+Speed: 1.3ms preprocess, 196.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.2ms
+Speed: 1.4ms preprocess, 194.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.8ms
+Speed: 1.2ms preprocess, 196.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.3ms
+Speed: 1.4ms preprocess, 196.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.6ms
+Speed: 1.5ms preprocess, 194.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.9ms
+Speed: 1.4ms preprocess, 194.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 193.3ms
+Speed: 1.2ms preprocess, 193.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.0ms
+Speed: 1.4ms preprocess, 197.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 193.2ms
+Speed: 1.2ms preprocess, 193.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.5ms
+Speed: 1.4ms preprocess, 195.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.4ms
+Speed: 1.4ms preprocess, 194.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.6ms
+Speed: 1.3ms preprocess, 196.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 206.6ms
+Speed: 1.4ms preprocess, 206.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 203.0ms
+Speed: 1.4ms preprocess, 203.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.9ms
+Speed: 1.4ms preprocess, 195.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 201.7ms
+Speed: 1.4ms preprocess, 201.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.6ms
+Speed: 1.4ms preprocess, 194.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.1ms
+Speed: 1.3ms preprocess, 194.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.2ms
+Speed: 1.4ms preprocess, 194.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.2ms
+Speed: 1.3ms preprocess, 194.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 193.5ms
+Speed: 1.4ms preprocess, 193.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 208.4ms
+Speed: 1.4ms preprocess, 208.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.0ms
+Speed: 1.3ms preprocess, 195.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.4ms
+Speed: 1.2ms preprocess, 194.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 202.3ms
+Speed: 1.5ms preprocess, 202.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 218.1ms
+Speed: 1.3ms preprocess, 218.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.1ms
+Speed: 1.3ms preprocess, 195.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.7ms
+Speed: 1.4ms preprocess, 195.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 2 Persons, 195.8ms
+Speed: 1.4ms preprocess, 195.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.4ms
+Speed: 1.4ms preprocess, 194.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.9ms
+Speed: 1.4ms preprocess, 195.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.6ms
+Speed: 1.4ms preprocess, 194.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.1ms
+Speed: 1.4ms preprocess, 194.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.6ms
+Speed: 1.4ms preprocess, 195.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 193.0ms
+Speed: 1.4ms preprocess, 193.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.3ms
+Speed: 1.3ms preprocess, 195.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 192.9ms
+Speed: 1.2ms preprocess, 192.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.4ms
+Speed: 1.5ms preprocess, 196.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.4ms
+Speed: 1.4ms preprocess, 197.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 193.7ms
+Speed: 1.2ms preprocess, 193.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 207.7ms
+Speed: 1.3ms preprocess, 207.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 193.8ms
+Speed: 1.3ms preprocess, 193.8ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.5ms
+Speed: 1.2ms preprocess, 195.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.2ms
+Speed: 1.2ms preprocess, 194.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.7ms
+Speed: 1.5ms preprocess, 196.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 200.1ms
+Speed: 1.4ms preprocess, 200.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 192.3ms
+Speed: 1.1ms preprocess, 192.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.7ms
+Speed: 1.3ms preprocess, 196.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.9ms
+Speed: 1.4ms preprocess, 196.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 192.9ms
+Speed: 1.5ms preprocess, 192.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.6ms
+Speed: 1.1ms preprocess, 198.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.2ms
+Speed: 1.3ms preprocess, 196.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.7ms
+Speed: 1.4ms preprocess, 196.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.0ms
+Speed: 1.2ms preprocess, 197.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 202.4ms
+Speed: 1.4ms preprocess, 202.4ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 205.3ms
+Speed: 1.7ms preprocess, 205.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.7ms
+Speed: 1.4ms preprocess, 194.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.2ms
+Speed: 1.2ms preprocess, 197.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.3ms
+Speed: 1.4ms preprocess, 196.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.5ms
+Speed: 1.2ms preprocess, 197.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 189.7ms
+Speed: 1.3ms preprocess, 189.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 219.0ms
+Speed: 1.3ms preprocess, 219.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 276.3ms
+Speed: 1.6ms preprocess, 276.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 234.6ms
+Speed: 1.3ms preprocess, 234.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 204.7ms
+Speed: 1.3ms preprocess, 204.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 230.9ms
+Speed: 1.3ms preprocess, 230.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.0ms
+Speed: 1.4ms preprocess, 195.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 194.3ms
+Speed: 1.2ms preprocess, 194.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.3ms
+Speed: 1.4ms preprocess, 197.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 224.2ms
+Speed: 1.1ms preprocess, 224.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.9ms
+Speed: 1.5ms preprocess, 197.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.4ms
+Speed: 1.5ms preprocess, 196.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 199.9ms
+Speed: 1.5ms preprocess, 199.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.9ms
+Speed: 1.4ms preprocess, 197.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.6ms
+Speed: 1.4ms preprocess, 197.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.0ms
+Speed: 1.5ms preprocess, 198.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 197.5ms
+Speed: 1.4ms preprocess, 197.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 199.2ms
+Speed: 1.4ms preprocess, 199.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 213.0ms
+Speed: 1.4ms preprocess, 213.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 195.7ms
+Speed: 1.3ms preprocess, 195.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.6ms
+Speed: 1.5ms preprocess, 198.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 199.2ms
+Speed: 1.4ms preprocess, 199.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 220.6ms
+Speed: 1.4ms preprocess, 220.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 208.6ms
+Speed: 1.4ms preprocess, 208.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 196.5ms
+Speed: 1.4ms preprocess, 196.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 198.6ms
+Speed: 1.4ms preprocess, 198.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 199.9ms
+Speed: 1.2ms preprocess, 199.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 200.0ms
+Speed: 1.4ms preprocess, 200.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 207.4ms
+Speed: 1.4ms preprocess, 207.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 196.5ms
+Speed: 1.2ms preprocess, 196.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 2 NO-Hardhats, 1 Person, 198.1ms
+Speed: 1.4ms preprocess, 198.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 Persons, 207.0ms
+Speed: 1.3ms preprocess, 207.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 196.3ms
+Speed: 1.2ms preprocess, 196.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 3 Persons, 197.4ms
+Speed: 1.2ms preprocess, 197.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 196.4ms
+Speed: 1.3ms preprocess, 196.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 197.6ms
+Speed: 1.5ms preprocess, 197.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 198.9ms
+Speed: 1.5ms preprocess, 198.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 210.2ms
+Speed: 1.4ms preprocess, 210.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 198.3ms
+Speed: 1.3ms preprocess, 198.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 196.8ms
+Speed: 1.5ms preprocess, 196.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 197.8ms
+Speed: 1.4ms preprocess, 197.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 197.2ms
+Speed: 1.4ms preprocess, 197.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 198.9ms
+Speed: 1.4ms preprocess, 198.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 198.2ms
+Speed: 1.4ms preprocess, 198.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 239.9ms
+Speed: 1.4ms preprocess, 239.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 209.3ms
+Speed: 1.3ms preprocess, 209.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 196.9ms
+Speed: 1.3ms preprocess, 196.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 195.9ms
+Speed: 1.1ms preprocess, 195.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 196.3ms
+Speed: 1.2ms preprocess, 196.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 196.0ms
+Speed: 1.3ms preprocess, 196.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 197.7ms
+Speed: 1.4ms preprocess, 197.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 195.8ms
+Speed: 1.6ms preprocess, 195.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 196.6ms
+Speed: 1.4ms preprocess, 196.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 200.4ms
+Speed: 1.4ms preprocess, 200.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 3 Persons, 196.2ms
+Speed: 1.5ms preprocess, 196.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 196.2ms
+Speed: 1.2ms preprocess, 196.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 207.7ms
+Speed: 1.4ms preprocess, 207.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 197.6ms
+Speed: 1.2ms preprocess, 197.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.3ms
+Speed: 1.4ms preprocess, 195.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 207.3ms
+Speed: 1.5ms preprocess, 207.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 207.3ms
+Speed: 1.2ms preprocess, 207.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 228.4ms
+Speed: 1.3ms preprocess, 228.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 262.4ms
+Speed: 1.5ms preprocess, 262.4ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 268.3ms
+Speed: 1.7ms preprocess, 268.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 216.3ms
+Speed: 1.4ms preprocess, 216.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 206.9ms
+Speed: 1.3ms preprocess, 206.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 193.8ms
+Speed: 1.3ms preprocess, 193.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 201.0ms
+Speed: 1.6ms preprocess, 201.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 207.9ms
+Speed: 1.4ms preprocess, 207.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 199.8ms
+Speed: 1.4ms preprocess, 199.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.6ms
+Speed: 1.5ms preprocess, 197.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 199.0ms
+Speed: 1.4ms preprocess, 199.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 196.6ms
+Speed: 1.5ms preprocess, 196.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 200.2ms
+Speed: 1.4ms preprocess, 200.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 200.7ms
+Speed: 1.4ms preprocess, 200.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 210.7ms
+Speed: 1.2ms preprocess, 210.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 320.5ms
+Speed: 6.6ms preprocess, 320.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 202.1ms
+Speed: 1.6ms preprocess, 202.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 202.5ms
+Speed: 1.3ms preprocess, 202.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 224.3ms
+Speed: 1.3ms preprocess, 224.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.4ms
+Speed: 1.2ms preprocess, 197.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 216.5ms
+Speed: 1.3ms preprocess, 216.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 196.8ms
+Speed: 1.2ms preprocess, 196.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.1ms
+Speed: 1.4ms preprocess, 197.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 552.8ms
+Speed: 1.4ms preprocess, 552.8ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 298.6ms
+Speed: 2.1ms preprocess, 298.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 262.6ms
+Speed: 1.6ms preprocess, 262.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 252.6ms
+Speed: 1.2ms preprocess, 252.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 326.3ms
+Speed: 1.2ms preprocess, 326.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 260.4ms
+Speed: 1.4ms preprocess, 260.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 233.7ms
+Speed: 1.2ms preprocess, 233.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 2 NO-Hardhats, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 226.6ms
+Speed: 1.3ms preprocess, 226.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Hardhat, 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 207.2ms
+Speed: 1.6ms preprocess, 207.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60553 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 Hardhat, 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 493.4ms
+Speed: 1.3ms preprocess, 493.4ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60553 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 244.3ms
+Speed: 2.7ms preprocess, 244.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 222.9ms
+Speed: 1.5ms preprocess, 222.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 239.7ms
+Speed: 2.3ms preprocess, 239.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 228.7ms
+Speed: 1.5ms preprocess, 228.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 206.0ms
+Speed: 1.3ms preprocess, 206.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 232.8ms
+Speed: 1.2ms preprocess, 232.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 315.3ms
+Speed: 1.4ms preprocess, 315.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60553 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 226.9ms
+Speed: 1.2ms preprocess, 226.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 215.6ms
+Speed: 1.4ms preprocess, 215.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 231.8ms
+Speed: 1.3ms preprocess, 231.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 204.0ms
+Speed: 1.4ms preprocess, 204.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 207.1ms
+Speed: 1.2ms preprocess, 207.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 235.8ms
+Speed: 1.5ms preprocess, 235.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 221.6ms
+Speed: 1.3ms preprocess, 221.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60553 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 219.7ms
+Speed: 1.3ms preprocess, 219.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 218.7ms
+Speed: 1.4ms preprocess, 218.7ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 220.1ms
+Speed: 1.2ms preprocess, 220.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 241.4ms
+Speed: 1.2ms preprocess, 241.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 234.3ms
+Speed: 1.5ms preprocess, 234.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 213.3ms
+Speed: 1.4ms preprocess, 213.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 201.9ms
+Speed: 1.3ms preprocess, 201.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60553 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 214.5ms
+Speed: 1.2ms preprocess, 214.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 213.5ms
+Speed: 1.3ms preprocess, 213.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 218.0ms
+Speed: 1.3ms preprocess, 218.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 219.0ms
+Speed: 1.2ms preprocess, 219.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 217.2ms
+Speed: 1.2ms preprocess, 217.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 213.1ms
+Speed: 1.4ms preprocess, 213.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 212.4ms
+Speed: 1.1ms preprocess, 212.4ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 231.8ms
+Speed: 1.3ms preprocess, 231.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60553 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 223.5ms
+Speed: 1.2ms preprocess, 223.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 206.7ms
+Speed: 1.3ms preprocess, 206.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 220.4ms
+Speed: 1.4ms preprocess, 220.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 208.6ms
+Speed: 1.2ms preprocess, 208.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 202.4ms
+Speed: 1.5ms preprocess, 202.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 205.9ms
+Speed: 1.1ms preprocess, 205.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 196.1ms
+Speed: 1.4ms preprocess, 196.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60553 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.8ms
+Speed: 1.5ms preprocess, 195.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 199.2ms
+Speed: 1.5ms preprocess, 199.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 198.4ms
+Speed: 1.3ms preprocess, 198.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 197.5ms
+Speed: 1.3ms preprocess, 197.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 197.2ms
+Speed: 1.4ms preprocess, 197.2ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 2 Persons, 198.8ms
+Speed: 1.4ms preprocess, 198.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 256.7ms
+Speed: 1.4ms preprocess, 256.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:60553 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 223.0ms
+Speed: 1.4ms preprocess, 223.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 404.2ms
+Speed: 1.3ms preprocess, 404.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 233.0ms
+Speed: 1.3ms preprocess, 233.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 255.7ms
+Speed: 1.3ms preprocess, 255.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 325.7ms
+Speed: 1.6ms preprocess, 325.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [59710]

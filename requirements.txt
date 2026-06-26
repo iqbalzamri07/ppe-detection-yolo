@@ -46,3 +46,21 @@ ultralytics==8.4.71
 ultralytics-thop==2.0.20
 urllib3==2.7.0
 uvicorn==0.49.0
+
+# Database and Authentication
+sqlalchemy==2.0.23
+alembic==1.13.0
+passlib[bcrypt]==1.7.4
+python-jose[cryptography]==3.3.0
+python-multipart==0.0.6
+
+# Email Notifications
+email-validator==2.1.0
+aiosmtplib==3.0.1
+
+# Webhook Support
+httpx==0.25.2
+
+# Additional utilities
+schedule==1.2.0
+pytz==2023.3

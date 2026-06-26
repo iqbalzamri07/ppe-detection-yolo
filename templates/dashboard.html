@@ -508,6 +508,53 @@
                     </div>
                 </div>
             </div>
+            
+            <div class="stats-section">
+                <h3>🔔 Notification Settings</h3>
+                <div style="background: #0f172a; padding: 15px; border-radius: 8px;">
+                    <div style="margin-bottom: 15px;">
+                        <label style="display: block; margin-bottom: 8px; color: #94a3b8; font-size: 0.9rem;">Email Notifications</label>
+                        <div style="display: flex; align-items: center; gap: 10px;">
+                            <input type="checkbox" id="emailEnabled" style="width: 18px; height: 18px;">
+                            <span style="color: #e2e8f0;">Enable email alerts</span>
+                        </div>
+                    </div>
+                    
+                    <div style="margin-bottom: 15px;">
+                        <label style="display: block; margin-bottom: 8px; color: #94a3b8; font-size: 0.9rem;">Webhook Notifications</label>
+                        <div style="display: flex; align-items: center; gap: 10px;">
+                            <input type="checkbox" id="webhookEnabled" style="width: 18px; height: 18px;">
+                            <span style="color: #e2e8f0;">Enable webhook alerts</span>
+                        </div>
+                    </div>
+                    
+                    <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+                        <button class="control-btn" onclick="testNotification()" style="flex: 1; min-width: 120px; font-size: 0.9rem; padding: 8px 12px;">
+                            📧 Test Alert
+                        </button>
+                        <button class="control-btn" onclick="sendDailySummary()" style="flex: 1; min-width: 120px; font-size: 0.9rem; padding: 8px 12px;">
+                            📊 Daily Summary
+                        </button>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="stats-section">
+                <h3>🗄️ Database Statistics</h3>
+                <div style="background: #0f172a; padding: 15px; border-radius: 8px;">
+                    <div id="dbStatsContent">
+                        <div style="color: #94a3b8; font-size: 0.9rem;">Loading database statistics...</div>
+                    </div>
+                    <div style="margin-top: 15px; display: flex; gap: 10px;">
+                        <button class="control-btn" onclick="loadDatabaseStats()" style="flex: 1; font-size: 0.9rem; padding: 8px 12px;">
+                            🔄 Refresh
+                        </button>
+                        <button class="control-btn" onclick="exportStats()" style="flex: 1; font-size: 0.9rem; padding: 8px 12px;">
+                            📥 Export
+                        </button>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -866,6 +913,114 @@
             } finally {
                 resetBtn.textContent = originalText;
                 resetBtn.disabled = false;
+            }
+        }
+
+        async function testNotification() {
+            try {
+                const response = await fetch('/api/notifications/test', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        title: 'Test Alert',
+                        message: 'This is a test notification from PPE Detection System',
+                        severity: 'info'
+                    })
+                });
+                
+                if (response.ok) {
+                    const data = await response.json();
+                    addAlert('Test Notification', data.message, 'info');
+                } else {
+                    const error = await response.json();
+                    addAlert('Notification Failed', error.detail, 'danger');
+                }
+            } catch (error) {
+                addAlert('Notification Error', 'Failed to send test notification: ' + error.message, 'danger');
+            }
+        }
+
+        async function sendDailySummary() {
+            try {
+                const response = await fetch('/api/notifications/daily-summary', {
+                    method: 'POST'
+                });
+                
+                if (response.ok) {
+                    const data = await response.json();
+                    addAlert('Daily Summary', data.message, 'info');
+                } else {
+                    const error = await response.json();
+                    addAlert('Summary Failed', error.detail, 'danger');
+                }
+            } catch (error) {
+                addAlert('Summary Error', 'Failed to send daily summary: ' + error.message, 'danger');
+            }
+        }
+
+        async function loadDatabaseStats() {
+            try {
+                const response = await fetch('/api/database/stats');
+                if (response.ok) {
+                    const data = await response.json();
+                    displayDatabaseStats(data);
+                } else {
+                    document.getElementById('dbStatsContent').innerHTML = 
+                        '<div style="color: #ef4444;">Failed to load database statistics</div>';
+                }
+            } catch (error) {
+                document.getElementById('dbStatsContent').innerHTML = 
+                    '<div style="color: #ef4444;">Error loading database stats: ' + error.message + '</div>';
+            }
+        }
+
+        function displayDatabaseStats(data) {
+            const html = `
+                <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-bottom: 15px;">
+                    <div style="background: #1e293b; padding: 10px; border-radius: 6px; text-align: center;">
+                        <div style="font-size: 1.5rem; font-weight: bold; color: #60a5fa;">${data.statistics.total}</div>
+                        <div style="font-size: 0.8rem; color: #94a3b8;">Total Detections</div>
+                    </div>
+                    <div style="background: #1e293b; padding: 10px; border-radius: 6px; text-align: center;">
+                        <div style="font-size: 1.5rem; font-weight: bold; color: #22c55e;">${data.statistics.compliance_rate.toFixed(1)}%</div>
+                        <div style="font-size: 0.8rem; color: #94a3b8;">Compliance Rate</div>
+                    </div>
+                    <div style="background: #1e293b; padding: 10px; border-radius: 6px; text-align: center;">
+                        <div style="font-size: 1.5rem; font-weight: bold; color: #22c55e;">${data.statistics.compliance}</div>
+                        <div style="font-size: 0.8rem; color: #94a3b8;">Compliance</div>
+                    </div>
+                    <div style="background: #1e293b; padding: 10px; border-radius: 6px; text-align: center;">
+                        <div style="font-size: 1.5rem; font-weight: bold; color: #ef4444;">${data.statistics.violations}</div>
+                        <div style="font-size: 0.8rem; color: #94a3b8;">Violations</div>
+                    </div>
+                </div>
+                <div style="font-size: 0.8rem; color: #64748b; text-align: center;">
+                    Last updated: ${new Date(data.timestamp).toLocaleString()}
+                </div>
+            `;
+            document.getElementById('dbStatsContent').innerHTML = html;
+        }
+
+        async function exportStats() {
+            try {
+                const response = await fetch('/api/stats/export');
+                if (response.ok) {
+                    const data = await response.json();
+                    const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+                    const url = window.URL.createObjectURL(blob);
+                    const a = document.createElement('a');
+                    a.href = url;
+                    a.download = `ppe_stats_${new Date().toISOString().split('T')[0]}.json`;
+                    document.body.appendChild(a);
+                    a.click();
+                    window.URL.revokeObjectURL(url);
+                    document.body.removeChild(a);
+                    addAlert('Export Success', 'Statistics exported successfully', 'info');
+                } else {
+                    addAlert('Export Failed', 'Failed to export statistics', 'danger');
+                }
+            } catch (error) {
+                addAlert('Export Error', 'Failed to export statistics: ' + error.message, 'danger');
             }
         }
 
