@@ -1,0 +1,388 @@
+INFO:     Started server process [59710]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:57502 - "POST /api/stats/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57504 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57512 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57516 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57555 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57555 - "GET /ppe HTTP/1.1" 200 OK
+OpenCV: not authorized to capture video (status 0), requesting...
+OpenCV: can not spin main run loop from other thread, set OPENCV_AVFOUNDATION_SKIP_AUTH=1 to disable authorization request and perform it in your application.
+OpenCV: camera failed to properly initialize!
+[ WARN:0@357.281] global cap_ffmpeg_impl.hpp:1217 open VIDEOIO/FFMPEG: Failed list devices for backend avfoundation
+INFO:     127.0.0.1:57557 - "GET /api/video-sources HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57559 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57555 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57555 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57555 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57555 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57555 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57555 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57555 - "POST /api/video-sources/video_sample2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57555 - "GET /ppe?t=1782397809937 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57562 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 228.6ms
+Speed: 7.8ms preprocess, 228.6ms inference, 20.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 198.5ms
+Speed: 1.3ms preprocess, 198.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 188.5ms
+Speed: 1.6ms preprocess, 188.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 200.7ms
+Speed: 1.4ms preprocess, 200.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 193.9ms
+Speed: 1.3ms preprocess, 193.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 193.1ms
+Speed: 1.6ms preprocess, 193.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 195.1ms
+Speed: 1.3ms preprocess, 195.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:57562 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Safety Vest, 1 Person, 206.4ms
+Speed: 1.4ms preprocess, 206.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 199.9ms
+Speed: 1.5ms preprocess, 199.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Safety Vest, 1 Person, 242.6ms
+Speed: 1.4ms preprocess, 242.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 192.0ms
+Speed: 1.5ms preprocess, 192.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 198.4ms
+Speed: 1.4ms preprocess, 198.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 Person, 198.0ms
+Speed: 1.4ms preprocess, 198.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:57562 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 Person, 197.3ms
+Speed: 1.6ms preprocess, 197.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 218.1ms
+Speed: 1.3ms preprocess, 218.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 Person, 201.0ms
+Speed: 1.6ms preprocess, 201.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:57562 - "POST /api/stats/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57566 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57566 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57566 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57566 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57566 - "POST /api/video-sources/camera_0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57566 - "GET /ppe?t=1782397821251 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57562 - "GET /api/stats HTTP/1.1" 200 OK
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 281.1ms
+Speed: 2.0ms preprocess, 281.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 229.0ms
+Speed: 1.3ms preprocess, 229.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 221.3ms
+Speed: 2.0ms preprocess, 221.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:57562 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 NO-Safety Vests, 1 Person, 244.7ms
+Speed: 1.2ms preprocess, 244.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 2 Persons, 239.6ms
+Speed: 1.6ms preprocess, 239.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 2 Persons, 207.0ms
+Speed: 2.2ms preprocess, 207.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 2 Persons, 222.3ms
+Speed: 1.3ms preprocess, 222.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 193.7ms
+Speed: 1.2ms preprocess, 193.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 201.4ms
+Speed: 1.2ms preprocess, 201.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 2 Persons, 203.2ms
+Speed: 1.1ms preprocess, 203.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:57562 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 193.5ms
+Speed: 1.2ms preprocess, 193.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 2 Persons, 204.2ms
+Speed: 1.5ms preprocess, 204.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 211.1ms
+Speed: 1.1ms preprocess, 211.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 198.9ms
+Speed: 1.2ms preprocess, 198.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 201.9ms
+Speed: 1.2ms preprocess, 201.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 197.8ms
+Speed: 1.1ms preprocess, 197.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 2 NO-Masks, 1 NO-Safety Vest, 1 Person, 196.2ms
+Speed: 1.2ms preprocess, 196.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 205.6ms
+Speed: 1.2ms preprocess, 205.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+INFO:     127.0.0.1:57562 - "GET /api/stats HTTP/1.1" 200 OK
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 214.8ms
+Speed: 1.4ms preprocess, 214.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 204.2ms
+Speed: 1.2ms preprocess, 204.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 2 Persons, 214.1ms
+Speed: 1.1ms preprocess, 214.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 192.2ms
+Speed: 1.5ms preprocess, 192.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 207.7ms
+Speed: 1.2ms preprocess, 207.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 199.8ms
+Speed: 1.2ms preprocess, 199.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 1 NO-Hardhat, 1 NO-Mask, 1 NO-Safety Vest, 1 Person, 196.3ms
+Speed: 1.5ms preprocess, 196.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+INFO:     127.0.0.1:57562 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57562 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57562 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57562 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57562 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57562 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57562 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57562 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57562 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57575 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57624 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57649 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57659 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57671 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57691 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57699 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57709 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57719 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57728 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57738 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57746 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57756 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57764 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57772 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57781 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57789 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57799 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57807 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57816 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57828 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57836 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57846 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57858 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57912 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57951 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57992 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58046 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58081 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58116 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58154 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58196 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58221 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58263 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58293 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58325 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58361 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58433 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58469 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58491 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58528 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58594 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58630 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58685 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58728 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58760 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58806 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58852 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58891 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58935 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58965 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59034 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59090 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59160 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59210 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59237 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59285 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59334 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59384 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59447 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59484 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59528 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59570 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59580 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59613 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59644 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59670 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59685 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59693 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59701 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59709 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59720 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59729 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59737 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59745 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59751 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59782 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59791 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59801 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59815 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59824 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59832 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59840 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59856 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59867 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59878 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59886 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59894 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59894 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59894 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59894 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59894 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59894 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59894 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59894 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59894 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59894 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59894 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59899 - "GET /api/stats HTTP/1.1" 200 OK

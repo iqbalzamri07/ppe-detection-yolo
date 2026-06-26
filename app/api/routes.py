@@ -9,9 +9,8 @@ import threading
 
 router = APIRouter()
 
-# Initialize stats service
+# Initialize stats service (but don't start background thread yet)
 stats_service = StatsService()
-stats_service.start()
 
 @router.get('/health')
 def health():
@@ -32,7 +31,7 @@ def get_stats():
     """
     return stats_service.get_stats()
 
-@router.get("/api/stats/reset")
+@router.post("/api/stats/reset")
 def reset_stats():
     """
     Resets the detection statistics.
